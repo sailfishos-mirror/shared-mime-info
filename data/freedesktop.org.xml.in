@@ -8189,6 +8189,16 @@ command to generate the output files.
     <alias type="model/x.stl-binary"/>
   </mime-type>
 
+  <mime-type type="model/step">
+    <comment>STEP 3D model</comment>
+    <generic-icon name="image-x-generic"/>
+    <glob pattern="*.step"/>
+    <glob pattern="*.stp"/>
+    <magic>
+      <match type="string" value="ISO-10303-21;" offset="0"/>
+    </magic>
+  </mime-type>
+
   <mime-type type="text/x.gcode">
     <comment>G-code file</comment>
     <sub-class-of type="text/plain"/>

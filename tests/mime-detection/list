@@ -922,6 +922,8 @@ dbus-comment.service text/x-dbus-service
 cube.3mf model/3mf ox
 binary.stl model/stl oxo
 ascii.stl model/stl
+# from https://www.nist.gov/document/nist-ftc-test-case-definitions
+nist_ftc_11_asme1_rb.stp model/step ox
 test.gcode text/x.gcode ox
 20mm_Box.gx text/x-gcode-gx
 # Converted from binary.stl with Blender
