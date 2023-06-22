@@ -26,11 +26,11 @@ xmlto   = find_program('xmlto', required: false)
 ###############################################################################
 # Find xdgmime
 
-xdgmime = get_option('xdgmime-path') / 'src'
+xdgmime = get_option('xdgmime-path')
 
-xdgmime_print_mime_data = find_program(xdgmime/'print-mime-data', required: false)
-xdgmime_test_mime_data  = find_program(xdgmime/'test-mime-data', required: false)
-xdgmime_test_mime       = find_program(xdgmime/'test-mime', required: false)
+xdgmime_print_mime_data = find_program(xdgmime/'print-mime-data', 'print-mime-data', required: false)
+xdgmime_test_mime_data  = find_program(xdgmime/'test-mime-data', 'test-mime-data', required: false)
+xdgmime_test_mime       = find_program(xdgmime/'test-mime', 'test-mime', required: false)
 xdgmime_found = (
     xdgmime_print_mime_data.found() and
     xdgmime_test_mime_data.found()  and
