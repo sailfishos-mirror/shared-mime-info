@@ -1168,3 +1168,5 @@ proxy.pac application/x-ns-proxy-autoconfig
 test.spdx.json application/spdx+json ox
 # test.spdx.json converted using https://tools.spdx.org/app/convert/
 test.spdx text/spdx
+# https://raw.githubusercontent.com/CycloneDX/bom-examples/refs/heads/master/SBOM/cern-lhc-vdm-editor-e564943/bom.json
+test.cdx.json application/vnd.cyclonedx+json ox
