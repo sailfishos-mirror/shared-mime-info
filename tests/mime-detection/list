@@ -1166,3 +1166,5 @@ proxy.pac application/x-ns-proxy-autoconfig
 # SBOM files
 # https://github.com/spdx/spdx-examples/blob/master/presentations/OSS-NA-2023/SPDXVersion2.3/01-MinimalSBOM.json
 test.spdx.json application/spdx+json ox
+# test.spdx.json converted using https://tools.spdx.org/app/convert/
+test.spdx text/spdx
