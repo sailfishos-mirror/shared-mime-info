@@ -1170,3 +1170,5 @@ test.spdx.json application/spdx+json ox
 test.spdx text/spdx
 # https://raw.githubusercontent.com/CycloneDX/bom-examples/refs/heads/master/SBOM/cern-lhc-vdm-editor-e564943/bom.json
 test.cdx.json application/vnd.cyclonedx+json ox
+# https://raw.githubusercontent.com/CycloneDX/bom-examples/refs/heads/master/SBOM/cern-lhc-vdm-editor-e564943/bom.xml
+test.cdx.xml application/vnd.cyclonedx+xml ox
