@@ -54,6 +54,11 @@ test('Case sensitivity',
     find_program('test-case-sensitivity.sh'),
 )
 
+test('Database sorted by type',
+    find_program('test_mime_types_sorted.sh'),
+    args: freedesktop_org_xml,
+)
+
 if get_option('build-tools')
     test('update-mime-database',
         update_mime_database,

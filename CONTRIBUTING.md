@@ -4,6 +4,7 @@ https://gitlab.freedesktop.org/xdg/shared-mime-info/-/blob/master/CONTRIBUTING.m
 A few ground rules for people interested in adding new mime-types.
 
 * Mime-types used should be IANA registered mime-types when possible
+* Keep the database sorted by type, case insensitively
 * When old mime-types become registered, the new definition should
   include an alias for the old mime-type
 * New entries or modifications should include a test case (see below)
