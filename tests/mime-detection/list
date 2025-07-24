@@ -70,7 +70,7 @@ test.tif image/tiff
 test.webp image/webp
 test.xbm image/x-xbitmap ox
 test.xcf image/x-xcf
-test.gbr image/x-gimp-gbr
+test.gbr image/x-gimp-gbr x
 test.gih image/x-gimp-gih ox
 test.pat image/x-gimp-pat
 # https://bugs.freedesktop.org/show_bug.cgi?id=55263
@@ -309,9 +309,9 @@ playlist.wpl application/vnd.ms-wpl
 # Copied from Nine Inch Nails' The Slip
 test.flac audio/flac
 # Copied from http://tools.ietf.org/html/draft-pantos-http-live-streaming-02#section-7.1
-live-streaming.m3u application/vnd.apple.mpegurl x
+live-streaming.m3u application/vnd.apple.mpegurl
 # Copied from http://qthttp.apple.com.edgesuite.net/1006ad9g4hjk/all_w.m3u8
-all_w.m3u8 application/vnd.apple.mpegurl x
+all_w.m3u8 application/vnd.apple.mpegurl
 # Copied from http://bugs.freedesktop.org/show_bug.cgi?id=42922
 test.vsd application/vnd.visio
 # Copied from https://bugs.freedesktop.org/show_bug.cgi?id=40800
@@ -327,7 +327,7 @@ sample2.amr audio/amr
 # Truncated file from https://bugzilla.gnome.org/show_bug.cgi?id=792325
 raw-mjpeg.mjpeg video/x-mjpeg oxo
 # From https://cgit.kde.org/kfilemetadata.git/tree/autotests/samplefiles
-x_speex_ogg.spx audio/x-speex+ogg
+x_speex_ogg.spx audio/x-speex+ogg x
 # From https://cgit.kde.org/kfilemetadata.git/tree/autotests/samplefiles
 test.mpc audio/x-musepack
 # Created using https://tascam.com/us/product/hi-res_editor/top
@@ -405,7 +405,7 @@ dreamcast-us-samba-de-amigo.gdi application/x-gd-rom-cue ox
 dreamcast-jet-set-radio.cdi application/x-discjuggler-cd-image ox
 # Copied from /etc/sysconfig/iptables
 test.iptables text/x-iptables
-test-vpn.pcf application/x-cisco-vpn-settings x
+test-vpn.pcf application/x-cisco-vpn-settings
 # From https://bugs.freedesktop.org/show_bug.cgi?id=20302
 menu.ini application/octet-stream oxx
 menu.ini text/plain x
@@ -432,16 +432,16 @@ test.yaml application/yaml
 # Copied from https://toml.io/en/
 test.toml application/toml ox
 # hand-made
-mysum.m text/x-matlab x
+mysum.m text/x-matlab
 # taken from Octave 3.2 sources
-isdir.m text/x-matlab x
+isdir.m text/x-matlab
 # hand-made
 test.mo text/x-modelica xoo
 # From https://bugs.freedesktop.org/show_bug.cgi?id=29733
 bibtex.bib text/x-bibtex
 # the following 6 test files are hand-made
-import-objc.m text/x-objcsrc ox
-comment-objc.m text/x-objcsrc ox
+import-objc.m text/x-objcsrc xx
+comment-objc.m text/x-objcsrc xxx
 import-objc++.mm text/x-objc++src
 include-objc++.mm text/x-objc++src ox
 simple-troff.tr text/troff
@@ -505,7 +505,7 @@ not-qml.py text/x-python ox
 example_mime.sage text/x-sagemath oxo
 # Perl
 test.pl application/x-perl
-test.pm application/x-perl
+test.pm application/x-perl x
 test.t application/x-perl
 # Not perl https://gitlab.freedesktop.org/xdg/shared-mime-info/-/issues/155
 shell-calls-awk application/x-shellscript x
@@ -937,7 +937,7 @@ helloworld-win16.exe application/x-ms-ne-executable x
 # 32-bit Windows executable
 helloworld-win32.exe application/vnd.microsoft.portable-executable x
 # Generated with `cd /tmp && x86_64-w64-mingw32-clang -shared -fuse-ld=lld -Wl,--pdb=empty.pdb -x c /dev/null`
-empty.pdb application/x-ms-pdb x
+empty.pdb application/x-ms-pdb
 C.lnk application/x-ms-shortcut
 # WASM module https://rustwasm.github.io/wasm-bindgen/exbuild/add/53356255c2705a766855.module.wasm
 add.wasm application/wasm
@@ -1026,7 +1026,7 @@ disk.qcow2 application/x-qemu-disk
 # qemu-img convert -O qed disk.qcow2 disk.qed
 disk.qed application/x-qed-disk
 # qemu-img convert -O vpc disk.qcow2 disk.vhd
-disk.vhd application/x-vhd-disk x
+disk.vhd application/x-vhd-disk
 # qemu-img convert -O vhdx disk.qcow2 disk.vhdx # (first 1024 bytes of 128MB)
 disk.vhdx application/x-vhdx-disk
 # qemu-img convert -O vmdk disk.qcow2 disk.vmdk
@@ -1095,7 +1095,7 @@ msaccess.mdb application/vnd.ms-access
 # Apache Parquet file, created with pyarrow
 empty.parquet application/vnd.apache.parquet
 
-1EO8.pdb chemical/x-pdb
+1EO8.pdb chemical/x-pdb x
 
 # Org-mode file
 test.org text/org ox
@@ -1148,9 +1148,7 @@ id_rsa.pub text/x-ssh-public-key x
 id_ed25519 text/x-ssh-private-key x
 
 # PCB Fabrication data transfer formats
-# Both GIMP brush and Gerber files share the glob for .gbr, so we can't use filename-based
-# tests here because the files are identified as GIMP brushes using the glob.
-pcb-gerber.gbr application/vnd.gerber x
+pcb-gerber.gbr application/vnd.gerber
 pcb-gerber.gts application/vnd.gerber x
 pcb-gerber-CommentNoExt application/vnd.gerber x
 pcb-gerber-FSLANoExt application/vnd.gerber x
