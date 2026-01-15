@@ -863,7 +863,7 @@ game-gear-test.gg application/x-gamegear-rom ox
 sega-binfmt-1-genesis.bin application/x-genesis-rom x
 # QuackShot Starring Donald Duck [interleaved "BIN"] truncated to 1Ko
 sega-smdfmt-1-megadrive.smd application/x-genesis-rom
-# The Ren & Stimpy Show Presents: Stimpy's Invention [BIN] truncated to 275o
+# The Ren & Stimpy Show Presents: Stimpy's Invention [BIN] truncated to 1Ko
 sega-binfmt-2-megadrive.gen application/x-genesis-rom
 # Sonic the Hedgehog [BIN] truncated to 1Ko
 sega-binfmt-3-megadrive.gen application/x-genesis-rom
