@@ -2339,7 +2339,7 @@ command to generate the output files.
     <magic>
       <match type="string" value="SEGA PICO" offset="256"/>
     </magic>
-    <glob pattern="*.iso"/>
+    <glob pattern="*.md" weight="10"/>
   </mime-type>
   <mime-type type="application/x-saturn-rom">
     <comment>Sega Saturn disc image</comment>
