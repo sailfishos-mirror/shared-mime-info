@@ -3165,13 +3165,16 @@ command to generate the output files.
     <comment>Genesis ROM</comment>
     <generic-icon name="application-x-executable"/>
     <magic>
+      <!-- BIN format, known system type strings -->
       <match type="string" value="SEGA GENESIS" offset="256"/>
       <match type="string" value="SEGA MEGADRIVE" offset="256"/>
       <match type="string" value="SEGA MEGA DRIVE" offset="256"/>
       <match type="string" value="SEGA_MEGA_DRIVE" offset="256"/>
       <match type="string" value="SEGA SSF" offset="256"/>
-      <match type="string" value="EAGN" offset="640"/>
-      <match type="string" value="EAMG" offset="640"/>
+      <!-- SMD format -->
+      <match type="byte" value="3" offset="1">
+        <match type="string" value="\xAA\xBB\x06" offset="8"/>
+      </match>
     </magic>
     <glob pattern="*.gen"/>
     <glob pattern="*.smd"/>
