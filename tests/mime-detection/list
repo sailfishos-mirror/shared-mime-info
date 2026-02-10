@@ -622,7 +622,7 @@ test.bz2 application/x-bzip2
 # Created using GNU tar 1.35 and bzip2 Version 1.0.8
 test.tar.bz2 application/x-bzip2-compressed-tar ox
 # Created using bzip3 1.2.2
-test.bz3 application/x-bzip3
+test.bz3 application/vnd.bzip3
 # Created using GNU tar 1.34 and bzip3 1.2.2
 test.tar.bz3 application/x-bzip3-compressed-tar ox
 # Created using lzip 1.1

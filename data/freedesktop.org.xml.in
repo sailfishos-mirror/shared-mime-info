@@ -1976,18 +1976,19 @@ command to generate the output files.
     <glob pattern="*.tb2"/>
     <alias type="application/x-bzip-compressed-tar"/>
   </mime-type>
-  <mime-type type="application/x-bzip3">
+  <mime-type type="application/vnd.bzip3">
     <comment>Bzip3 archive</comment>
     <generic-icon name="package-x-generic"/>
     <magic>
       <match type="string" value="BZ3v1" offset="0"/>
     </magic>
     <glob pattern="*.bz3"/>
+    <alias type="application/x-bzip3"/>
   </mime-type>
   <mime-type type="application/x-bzip3-compressed-tar">
     <comment>Tar archive (bzip3-compressed)</comment>
     <generic-icon name="package-x-generic"/>
-    <sub-class-of type="application/x-bzip3"/>
+    <sub-class-of type="application/vnd.bzip3"/>
     <glob pattern="*.tar.bz3"/>
     <glob pattern="*.tbz3"/>
   </mime-type>
