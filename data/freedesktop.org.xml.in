@@ -3814,20 +3814,23 @@ command to generate the output files.
       </match>
     </magic>
   </mime-type>
-  <mime-type type="video/x-matroska">
+  <mime-type type="video/matroska">
     <comment>Matroska video</comment>
     <glob pattern="*.mkv"/>
     <sub-class-of type="application/x-matroska"/>
+    <alias type="video/x-matroska"/>
   </mime-type>
-  <mime-type type="video/x-matroska-3d">
+  <mime-type type="video/matroska-3d">
     <comment>Matroska 3D video</comment>
     <glob pattern="*.mk3d"/>
     <sub-class-of type="application/x-matroska"/>
+    <alias type="video/x-matroska-3d"/>
   </mime-type>
-  <mime-type type="audio/x-matroska">
+  <mime-type type="audio/matroska">
     <comment>Matroska audio</comment>
     <glob pattern="*.mka"/>
     <sub-class-of type="application/x-matroska"/>
+    <alias type="audio/x-matroska"/>
   </mime-type>
   <mime-type type="video/webm">
     <comment>WebM video</comment>
