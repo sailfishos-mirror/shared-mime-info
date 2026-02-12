@@ -8285,11 +8285,12 @@ command to generate the output files.
       <match type="string" value="documentclass" offset="1"/>
     </magic>
   </mime-type>
-  <mime-type type="text/x-texinfo">
+  <mime-type type="application/texinfo">
     <comment>TeXInfo document</comment>
     <sub-class-of type="text/plain"/>
     <glob pattern="*.texi"/>
     <glob pattern="*.texinfo"/>
+    <alias type="text/x-texinfo"/>
   </mime-type>
   <mime-type type="text/vnd.typst">
     <comment>Typst document</comment>
