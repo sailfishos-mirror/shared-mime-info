@@ -2322,11 +2322,23 @@ command to generate the output files.
     <generic-icon name="application-x-executable"/>
     <!-- Also matches the application/x-genesis-rom magic values, hence the higher priority -->
     <magic priority="60">
-      <match type="string" value="SEGADISCSYSTEM" offset="0">
+      <!-- 2048-byte sectors -->
+      <match type="string" value="SEGADISCSYSTEM\040\040" offset="0">
         <match type="string" value="SEGA" offset="256"/>
+        <match type="string" value="\040SEGA" offset="256"/>
       </match>
-      <match type="string" value="SEGADISCSYSTEM" offset="16">
+      <match type="string" value="SEGABOOTDISC\040\040\040\040" offset="0">
+        <match type="string" value="SEGA" offset="256"/>
+        <match type="string" value="\040SEGA" offset="256"/>
+      </match>
+      <!-- 2352-byte sectors -->
+      <match type="string" value="SEGADISCSYSTEM\040\040" offset="16">
         <match type="string" value="SEGA" offset="272"/>
+        <match type="string" value="\040SEGA" offset="272"/>
+      </match>
+      <match type="string" value="SEGABOOTDISC\040\040\040\040" offset="16">
+        <match type="string" value="SEGA" offset="272"/>
+        <match type="string" value="\040SEGA" offset="272"/>
       </match>
     </magic>
     <glob pattern="*.iso"/>
