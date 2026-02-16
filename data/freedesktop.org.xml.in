@@ -2336,7 +2336,7 @@ command to generate the output files.
          Should be Sega Pico in all but Japan: https://en.wikipedia.org/wiki/Sega_Pico -->
     <comment>Sega Pico ROM</comment>
     <generic-icon name="application-x-executable"/>
-    <magic>
+    <magic priority="60">
       <match type="string" value="SEGA PICO" offset="256"/>
     </magic>
     <glob pattern="*.md" weight="10"/>
@@ -3164,30 +3164,33 @@ command to generate the output files.
          Should be Mega Drive in all but en_US, Mexico and Canada: https://en.wikipedia.org/wiki/Sega_Genesis#History -->
     <comment>Genesis ROM</comment>
     <generic-icon name="application-x-executable"/>
-    <magic>
-      <!-- BIN format, known system type strings -->
-      <match type="string" value="SEGA GENESIS" offset="256"/>
-      <match type="string" value="SEGA MEGADRIVE" offset="256"/>
-      <match type="string" value="SEGA MEGA DRIVE" offset="256"/>
-      <match type="string" value="SEGA_MEGA_DRIVE" offset="256"/>
-      <match type="string" value="SEGA SSF" offset="256"/>
-      <!-- SMD format -->
+    <magic priority="50">
+      <!-- Non-interleaved BIN format: just the generic TMSS bytes -->
+      <!-- Types for later consoles which share the same header format should
+           define longer and more specific magic, at higher priorities.
+      -->
+      <match type="string" offset="256" value="SEGA"/>
+      <match type="string" offset="256" value=" SEGA"/>
+      <!-- Interleaved SMD (Super Magic Drive) format -->
+      <!-- Same as the BIN format, but interleaved and with an added header -->
       <match type="byte" value="3" offset="1">
         <match type="string" value="\xAA\xBB\x06" offset="8"/>
       </match>
     </magic>
+    <!-- BIN -->
     <glob pattern="*.gen"/>
-    <glob pattern="*.smd"/>
     <glob pattern="*.md" weight="10"/>
     <glob pattern="*.68k"/>
     <glob pattern="*.sgd"/>
+    <!-- SMD -->
+    <glob pattern="*.smd"/>
   </mime-type>
   <mime-type type="application/x-genesis-32x-rom">
     <!-- Translate this to Super 32X, Mega Drive 32X or Mega 32X if the system was known as such in your locale
          Should be Super 32X in Japan, Mega Drive 32X in PAL region and Mega 32X in Brazil: https://en.wikipedia.org/wiki/32X -->
     <comment>Genesis 32X ROM</comment>
     <generic-icon name="application-x-executable"/>
-    <magic>
+    <magic priority="60">
       <match type="string" value="SEGA 32X" offset="256"/>
     </magic>
     <glob pattern="*.32x"/>
