@@ -377,6 +377,8 @@ helloworld.vbs text/vbscript ox
 # Created with `srcenc.exe helloworld.vbs helloworld.vbe`
 helloworld.vbe text/vbscript.encode ox
 helloworld.ps1 application/x-powershell
+# Copied from https://dmcxblue.gitbook.io/red-team-notes/execution/trusted-developer-utilities/regsvr32
+calc.sct text/scriptlet x
 build.gradle text/x-gradle ox
 ico.ksy text/x-kaitai-struct ox
 # Copied from http://asurvey.net/ccsfagent/media/survey.js
