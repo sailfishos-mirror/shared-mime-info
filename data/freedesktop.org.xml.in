@@ -8728,8 +8728,12 @@ command to generate the output files.
     <alias type="video/x-fli"/>
     <alias type="video/x-flc"/>
     <magic>
-      <match type="little16" value="0xAF11" offset="4"/>
-      <match type="little16" value="0xAF12" offset="4"/>
+      <match type="little16" value="0xAF11" offset="4">
+        <match type="little16" value="0x0008" offset="12"/>
+      </match>
+      <match type="little16" value="0xAF12" offset="4">
+        <match type="little16" value="0x0008" offset="12"/>
+      </match>
     </magic>
     <glob pattern="*.fli"/>
     <glob pattern="*.flc"/>
