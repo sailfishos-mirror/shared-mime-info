@@ -8736,7 +8736,11 @@ command to generate the output files.
     <acronym>ASE</acronym>
     <expanded-acronym>Allegro Sprite Editor</expanded-acronym>
     <magic>
-      <match type="little16" value="0xA5E0" offset="4"/>
+      <match type="little16" value="0xA5E0" offset="4">
+        <match type="little16" value="0x0000" offset="20">
+          <match type="little16" value="0x0000" offset="24"/>
+        </match>
+      </match>
     </magic>
     <glob pattern="*.ase"/>
     <glob pattern="*.aseprite"/>
