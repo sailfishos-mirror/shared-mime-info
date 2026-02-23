@@ -859,9 +859,9 @@ sg1000-test.sg application/x-sg1000-rom ox
 sms-test.sms application/x-sms-rom ox
 # Sonic the Hedgehog: Triple Trouble truncated to 1Ko
 game-gear-test.gg application/x-gamegear-rom ox
-# Pitfall - The Mayan Adventure [non-interleaved "SMD"] truncated to 1Ko
+# Pitfall - The Mayan Adventure [non-interleaved "BIN"] truncated to 1Ko
 sega-binfmt-1-genesis.bin application/x-genesis-rom x
-# QuackShot Starring Donald Duck [interleaved "BIN"] truncated to 1Ko
+# QuackShot Starring Donald Duck [interleaved "SMD"] truncated to 1Ko
 sega-smdfmt-1-megadrive.smd application/x-genesis-rom-smd
 # The Ren & Stimpy Show Presents: Stimpy's Invention [BIN] truncated to 1Ko
 sega-binfmt-2-megadrive.gen application/x-genesis-rom
