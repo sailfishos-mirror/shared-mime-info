@@ -3177,6 +3177,22 @@ command to generate the output files.
       <match type="string" value="GDBM" offset="0"/>
     </magic>
   </mime-type>
+  <mime-type type="application/x-genesis-rom-smd">
+    <!-- Translate "Genesis" to "Mega Drive" if the console was known as
+         such in your locale. Should be "Mega Drive" in all but en_US,
+         Mexico and Canada:
+         https://en.wikipedia.org/wiki/Sega_Genesis#History -->
+    <comment>Genesis ROM (SMD dump)</comment>
+    <acronym>SMD</acronym>
+    <expanded-acronym>Super Magic Drive</expanded-acronym>
+    <generic-icon name="application-x-executable"/>
+    <magic>
+      <match type="byte" value="3" offset="1">
+        <match type="string" value="\xAA\xBB\x06" offset="8"/>
+      </match>
+    </magic>
+    <glob pattern="*.smd"/>
+  </mime-type>
   <mime-type type="application/x-genesis-rom">
     <!-- Translate "Genesis" to "Mega Drive" if the console was known as
          such in your locale. Should be "Mega Drive" in all but en_US,
@@ -3192,19 +3208,11 @@ command to generate the output files.
            more specific magic than this, with higher priorities. -->
       <match type="string" offset="256" value="SEGA"/>
       <match type="string" offset="256" value=" SEGA"/>
-      <!-- Interleaved SMD (Super Magic Drive) format -->
-      <!-- Same as the BIN format, but interleaved and with an added header -->
-      <match type="byte" value="3" offset="1">
-        <match type="string" value="\xAA\xBB\x06" offset="8"/>
-      </match>
     </magic>
-    <!-- BIN -->
     <glob pattern="*.gen"/>
     <glob pattern="*.md" weight="10"/>
     <glob pattern="*.68k"/>
     <glob pattern="*.sgd"/>
-    <!-- SMD -->
-    <glob pattern="*.smd"/>
   </mime-type>
   <mime-type type="application/x-genesis-32x-rom">
     <!-- Translate "Genesis 32X" to "Super 32X", "Mega Drive 32X",
