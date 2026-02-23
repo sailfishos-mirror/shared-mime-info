@@ -3178,15 +3178,18 @@ command to generate the output files.
     </magic>
   </mime-type>
   <mime-type type="application/x-genesis-rom">
-    <!-- Translate this to Mega Drive if the console was known as such in your locale
-         Should be Mega Drive in all but en_US, Mexico and Canada: https://en.wikipedia.org/wiki/Sega_Genesis#History -->
+    <!-- Translate "Genesis" to "Mega Drive" if the console was known as
+         such in your locale. Should be "Mega Drive" in all but en_US,
+         Mexico and Canada:
+         https://en.wikipedia.org/wiki/Sega_Genesis#History -->
     <comment>Genesis ROM</comment>
     <generic-icon name="application-x-executable"/>
     <magic priority="50">
-      <!-- Non-interleaved BIN format: just the generic TMSS bytes -->
-      <!-- Types for later consoles which share the same header format should
-           define longer and more specific magic, at higher priorities.
-      -->
+      <!-- Intentionally using just the most generic form of the TMSS bytes.
+           This type is a fallback for anything that looks like a Sega 16-bit
+           machine ROM. Types for accessories and related consoles which share
+           the same, rather variable, header format should define longer and
+           more specific magic than this, with higher priorities. -->
       <match type="string" offset="256" value="SEGA"/>
       <match type="string" offset="256" value=" SEGA"/>
       <!-- Interleaved SMD (Super Magic Drive) format -->
@@ -3204,8 +3207,10 @@ command to generate the output files.
     <glob pattern="*.smd"/>
   </mime-type>
   <mime-type type="application/x-genesis-32x-rom">
-    <!-- Translate this to Super 32X, Mega Drive 32X or Mega 32X if the system was known as such in your locale
-         Should be Super 32X in Japan, Mega Drive 32X in PAL region and Mega 32X in Brazil: https://en.wikipedia.org/wiki/32X -->
+    <!-- Translate "Genesis 32X" to "Super 32X", "Mega Drive 32X",
+         or "Mega 32X" if the system was known as such in your locale.
+         Should be "Super 32X" in Japan, "Mega Drive 32X" in PAL regions,
+         and "Mega 32X" in Brazil: https://en.wikipedia.org/wiki/32X -->
     <comment>Genesis 32X ROM</comment>
     <generic-icon name="application-x-executable"/>
     <magic priority="60">
