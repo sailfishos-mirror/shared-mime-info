@@ -1261,6 +1261,9 @@ fishscript.fish application/x-fishscript
 nuscript.sh application/x-nuscript xox
 nuscript.nu application/x-nuscript
 
+# sed
+sedscript.sed text/x-sed
+
 # Awk and derivatives
 awk-prog.awk text/x-awk
 awk-prog-nawk.awk text/x-nawk x
