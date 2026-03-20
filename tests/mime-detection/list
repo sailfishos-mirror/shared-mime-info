@@ -19,6 +19,7 @@ testcard_gray.phm image/x-phm
 testcard_rgb.phm image/x-phm
 testcard_rgb.pxr image/x-pxr
 testcard_gray.sct image/x-sct
+test_4bpp.tim image/x-tim
 # https://bugs.freedesktop.org/show_bug.cgi?id=55264
 Oriental_tattoo_by_daftpunk22.eps image/x-eps
 GammaChart.exr image/x-exr

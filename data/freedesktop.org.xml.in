@@ -9826,6 +9826,14 @@ command to generate the output files.
     </magic>
   </mime-type>
 
+  <mime-type type="image/x-tim">
+    <comment>PlayStation graphics</comment>
+    <glob pattern="*.tim"/>
+    <magic>
+      <match type="string" value="\x10\x00\x00\x00" offset="0"/>
+    </magic>
+  </mime-type>
+
   <mime-type type="text/x-nsis">
     <comment>NSIS Script</comment>
     <acronym>NSIS</acronym>
