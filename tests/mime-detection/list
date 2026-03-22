@@ -630,6 +630,10 @@ test.tar.bz2 application/x-bzip2-compressed-tar ox
 test.bz3 application/vnd.bzip3
 # Created using GNU tar 1.34 and bzip3 1.2.2
 test.tar.bz3 application/x-bzip3-compressed-tar ox
+# Created using go-car 0.6.3
+test.v1.car application/vnd.ipld.car ox
+# Created using go-car 2.16.0
+test.v2.car application/vnd.ipld.car
 # Created using lzip 1.1
 test.lz application/x-lzip
 # Created using Ark 16.07.70 + libarchive 3.1.2
