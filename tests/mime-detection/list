@@ -1057,6 +1057,8 @@ helloworld-dos4g.exe application/x-lx-executable x
 helloworld-win16.exe application/x-ms-ne-executable x
 # 32-bit Windows executable
 helloworld-win32.exe application/vnd.microsoft.portable-executable x
+# Windows object file, compiled with `x86_64-w64-mingw32-gcc -c helloworld.c -o helloworld-win64.obj`
+helloworld-win64.obj application/x-coff
 # Generated with `cd /tmp && x86_64-w64-mingw32-clang -shared -fuse-ld=lld -Wl,--pdb=empty.pdb -x c /dev/null`
 empty.pdb application/x-ms-pdb x
 C.lnk application/x-ms-shortcut
