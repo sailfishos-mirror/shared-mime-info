@@ -3346,7 +3346,6 @@ command to generate the output files.
   </mime-type>
   <mime-type type="text/x-gradle">
     <comment>Gradle script</comment>
-    <sub-class-of type="text/x-groovy"/>
     <glob pattern="*.gradle"/>
   </mime-type>
   <mime-type type="text/x-gradle-kts">
