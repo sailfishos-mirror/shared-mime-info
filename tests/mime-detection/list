@@ -530,6 +530,7 @@ test.pm application/x-perl
 test.t application/x-perl
 # Not perl https://gitlab.freedesktop.org/xdg/shared-mime-info/-/issues/155
 shell-calls-awk text/x-shellscript x
+test.n3 text/n3 ox
 # Copied from http://en.wikipedia.org/wiki/Turtle_%28syntax%29#Example
 test.ttl text/turtle ox
 # Twig template

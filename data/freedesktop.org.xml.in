@@ -7393,10 +7393,15 @@ command to generate the output files.
     <glob pattern="*.vct"/>
     <glob pattern="*.gcrd"/>
   </mime-type>
+  <mime-type type="text/n3">
+    <comment>Notation3 document</comment>
+    <glob pattern="*.n3"/>
+    <sub-class-of type="text/plain"/>
+  </mime-type>
   <mime-type type="text/turtle">
     <comment>Turtle document</comment>
     <glob pattern="*.ttl"/>
-    <sub-class-of type="text/plain"/>
+    <sub-class-of type="text/n3"/>
   </mime-type>
   <mime-type type="text/x-txt2tags">
     <comment>txt2tags document</comment>
