@@ -3349,6 +3349,11 @@ command to generate the output files.
     <sub-class-of type="text/x-groovy"/>
     <glob pattern="*.gradle"/>
   </mime-type>
+  <mime-type type="text/x-gradle-kts">
+    <comment>Kotlin Gradle script</comment>
+    <sub-class-of type="text/x-kotlin"/>
+    <glob pattern="*.gradle.kts"/>
+  </mime-type>
   <mime-type type="application/x-java-jnlp-file">
     <comment>JNLP file</comment>
     <acronym>JNLP</acronym>
