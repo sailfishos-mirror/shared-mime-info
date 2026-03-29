@@ -1355,3 +1355,20 @@ sf3/pbr-quad.mod.sf3 model/x.sf3
 sf3/rgb-u8-1x1.img.sf3 image/x.sf3
 sf3/two-chunks.log.sf3 application/x.sf3-log
 sf3/two-rows.tab.sf3 application/x.sf3-table
+
+# PlantUML files
+test.uml.puml text/vnd.plantuml
+test.json.puml text/vnd.plantuml
+test.yaml.puml text/vnd.plantuml
+test.ebnf.puml text/vnd.plantuml
+test.regex.puml text/vnd.plantuml
+test.nw.puml text/vnd.plantuml
+test.salt.puml text/vnd.plantuml
+test.ditaa.puml text/vnd.plantuml
+test.gantt.puml text/vnd.plantuml
+test.chrono.puml text/vnd.plantuml
+test.mindmap.puml text/vnd.plantuml
+test.wbs.puml text/vnd.plantuml
+test.chen.puml text/vnd.plantuml
+test.chart.puml text/vnd.plantuml
+test.files.puml text/vnd.plantuml

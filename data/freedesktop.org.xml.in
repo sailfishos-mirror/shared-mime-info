@@ -10113,4 +10113,26 @@ command to generate the output files.
       <match value="export component" type="string" offset="0:256" />
     </magic>
   </mime-type>
+  <mime-type type="text/vnd.plantuml">
+    <comment>PlantUML Diagram</comment>
+    <sub-class-of type="text/plain"/>
+    <glob pattern="*.puml"/>
+    <magic priority="30">
+      <match value="@startuml" type="string" offset="0:128"/>
+      <match value="@startjson" type="string" offset="0:128"/>
+      <match value="@startyaml" type="string" offset="0:128"/>
+      <match value="@startebnf" type="string" offset="0:128"/>
+      <match value="@startregex" type="string" offset="0:128"/>
+      <match value="@startnwdiag" type="string" offset="0:128"/>
+      <match value="@startsalt" type="string" offset="0:128"/>
+      <match value="@startditaa" type="string" offset="0:128"/>
+      <match value="@startgantt" type="string" offset="0:128"/>
+      <match value="@startchronology" type="string" offset="0:128"/>
+      <match value="@startmindmap" type="string" offset="0:128"/>
+      <match value="@startwbs" type="string" offset="0:128"/>
+      <match value="@startchen" type="string" offset="0:128"/>
+      <match value="@startchart" type="string" offset="0:128"/>
+      <match value="@startfiles" type="string" offset="0:128"/>
+    </magic>
+  </mime-type>
 </mime-info>
