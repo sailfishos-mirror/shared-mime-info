@@ -405,6 +405,8 @@ helloworld.java text/x-java ox
 helloworld.groovy text/x-groovy ox
 helloworld.bas text/x-basic ox
 helloworld.vb text/x-vb x
+helloworld-commented1.vb text/x-vb x
+helloworld-commented2.vb text/x-vb x
 helloworld.vbs text/vbscript ox
 # Created with `srcenc.exe helloworld.vbs helloworld.vbe`
 helloworld.vbe text/vbscript.encode ox

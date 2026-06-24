@@ -8720,10 +8720,12 @@ command to generate the output files.
   <mime-type type="text/x-vb">
     <comment>Visual Basic .NET source code</comment>
     <sub-class-of type="text/plain"/>
-    <magic>
-      <match type="string" value="Imports" offset="0"/>
-      <match type="string" value="Module" offset="0"/>
-      <match type="string" value="REM" offset="0"/>
+    <magic priority="40">
+      <!-- Only look for typical VB.NET letter case -->
+      <match type="string" value="Imports " offset="0"/>
+      <match type="string" value="\nImports " offset="0:256"/>
+      <match type="string" value="Module " offset="0"/>
+      <match type="string" value="\nModule "  offset="0:256"/>
     </magic>
     <glob pattern="*.vb"/>
   </mime-type>
