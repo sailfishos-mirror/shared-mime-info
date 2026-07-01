@@ -1390,3 +1390,9 @@ test.wbs.puml text/vnd.plantuml
 test.chen.puml text/vnd.plantuml
 test.chart.puml text/vnd.plantuml
 test.files.puml text/vnd.plantuml
+
+# Nix source files
+# https://gitlab.freedesktop.org/xdg/shared-mime-info/-/work_items/268
+nix-configuration.nix text/x-nix ox
+nix-hardware-configuration.nix text/x-nix ox
+nix-home.nix text/x-nix ox
