@@ -7141,18 +7141,65 @@ command to generate the output files.
     <acronym>TGA</acronym>
     <expanded-acronym>Truevision Graphics Adapter</expanded-acronym>
     <magic priority="10">
-      <match type="string" value="\1\1" offset="1"/>
-      <match type="string" value="\1\11" offset="1"/>
-      <match type="string" value="\0\3" offset="1"/>
-      <match type="string" value="\0\xa" offset="1"/>
-      <match type="string" value="\0\xb" offset="1"/>
-    </magic>
-    <magic>
-      <match type="string" value="\0\2" offset="1">
-        <match type="byte" value="0x08" offset="16"/>
-        <match type="byte" value="0x10" offset="16"/>
-        <match type="byte" value="0x18" offset="16"/>
-        <match type="byte" value="0x20" offset="16"/>
+      <match type="string" offset="0" value="\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0" mask="0x00fed400000000000000000000000000c006">
+        <!-- no colormap -->
+        <match type="string" offset="1" value="\x00\x02"> <!-- truecolor -->
+          <match type="byte" offset="16" value="8"/>
+          <match type="byte" offset="16" value="15"/>
+          <match type="byte" offset="16" value="16"/>
+          <match type="byte" offset="16" value="24"/>
+          <match type="byte" offset="16" value="32"/>
+        </match>
+        <match type="string" offset="1" value="\x00\x03"> <!-- greyscale -->
+          <match type="byte" offset="16" value="8"/>
+          <match type="byte" offset="16" value="15"/>
+          <match type="byte" offset="16" value="16"/>
+          <match type="byte" offset="16" value="24"/>
+          <match type="byte" offset="16" value="32"/>
+        </match>
+        <match type="string" offset="1" value="\x00\x0a"> <!-- truecolor rle -->
+          <match type="byte" offset="16" value="8"/>
+          <match type="byte" offset="16" value="15"/>
+          <match type="byte" offset="16" value="16"/>
+          <match type="byte" offset="16" value="24"/>
+          <match type="byte" offset="16" value="32"/>
+        </match>
+        <match type="string" offset="1" value="\x00\x0b"> <!-- greyscale rle -->
+          <match type="byte" offset="16" value="8"/>
+          <match type="byte" offset="16" value="15"/>
+          <match type="byte" offset="16" value="16"/>
+          <match type="byte" offset="16" value="24"/>
+          <match type="byte" offset="16" value="32"/>
+        </match>
+        <!-- colormap present -->
+        <match type="string" offset="1" value="\x01\x01">
+          <match type="byte" offset="16" value="8"/>
+          <match type="byte" offset="16" value="15"/>
+          <match type="byte" offset="16" value="16"/>
+          <match type="byte" offset="16" value="24"/>
+          <match type="byte" offset="16" value="32"/>
+        </match>
+        <match type="string" offset="1" value="\x01\x09"><!-- rle -->
+          <match type="byte" offset="16" value="8"/>
+          <match type="byte" offset="16" value="15"/>
+          <match type="byte" offset="16" value="16"/>
+          <match type="byte" offset="16" value="24"/>
+          <match type="byte" offset="16" value="32"/>
+        </match>
+        <match type="string" offset="1" value="\x01\x20"><!-- huffman -->
+          <match type="byte" offset="16" value="8"/>
+          <match type="byte" offset="16" value="15"/>
+          <match type="byte" offset="16" value="16"/>
+          <match type="byte" offset="16" value="24"/>
+          <match type="byte" offset="16" value="32"/>
+        </match>
+        <match type="string" offset="1" value="\x01\x21"><!-- huffman-4tree -->
+          <match type="byte" offset="16" value="8"/>
+          <match type="byte" offset="16" value="15"/>
+          <match type="byte" offset="16" value="16"/>
+          <match type="byte" offset="16" value="24"/>
+          <match type="byte" offset="16" value="32"/>
+        </match>
       </match>
     </magic>
     <glob pattern="*.tga"/>

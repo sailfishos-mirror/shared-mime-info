@@ -67,10 +67,16 @@ test-p6.ppm image/x-portable-pixmap
 test.ps  application/postscript
 test.psd image/vnd.adobe.photoshop
 test.sgi image/x-sgi ox
-test.tga image/x-tga
-# Uncompressed TGA
-test2.tga image/x-tga
-colormapped.tga image/x-tga
+# Targa test files, mostly created with netpbm
+test-tga-cmap-norle.tga image/x-tga
+test-tga-cmap.tga image/x-tga
+test-tga-mono-norle.tga image/x-tga
+test-tga-mono.tga image/x-tga
+test-tga-rgb-norle.tga image/x-tga
+test-tga-rgb.tga image/x-tga
+test-tga-cmap-transparent-offset.tga image/x-tga
+test-tga-rgb32.tga image/x-tga ox  # clash: image/x-win-bitmap, weaker (shorter) magic
+
 test.tif image/tiff
 test.webp image/webp
 test.xbm image/x-xbitmap ox
