@@ -66,6 +66,18 @@ test2.ppm image/x-portable-pixmap
 test-p6.ppm image/x-portable-pixmap
 # xv thumbnails. *.p7 is sometimes used to denote them outside .xvpics subdirs
 test-xv-thumbnail.p7 image/x-xv-thumbnail
+.xvpics/test.gif image/x-xv-thumbnail xox
+.xvpics/test.jpeg image/x-xv-thumbnail xox
+.xvpics/test.jpg image/x-xv-thumbnail xox
+.xvpics/test.pbm image/x-xv-thumbnail xox
+.xvpics/test.pgm image/x-xv-thumbnail xox
+.xvpics/test.png image/x-xv-thumbnail xox
+.xvpics/test.ppm image/x-xv-thumbnail xox
+.xvpics/test-rgba.pam image/x-xv-thumbnail xox
+.xvpics/test.tga image/x-xv-thumbnail xox
+.xvpics/test.tif image/x-xv-thumbnail xox
+.xvpics/test.tiff image/x-xv-thumbnail xox
+.xvpics/test.webp image/x-xv-thumbnail xox
 test.ps  application/postscript
 test.psd image/vnd.adobe.photoshop
 test.sgi image/x-sgi ox
