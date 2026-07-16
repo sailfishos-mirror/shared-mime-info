@@ -7108,6 +7108,24 @@ command to generate the output files.
     </magic>
     <glob pattern="*.ppm"/>
   </mime-type>
+  <mime-type type="image/x-portable-arbitrarymap">
+    <comment>PAM image</comment>
+    <acronym>PAM</acronym>
+    <expanded-acronym>Portable Arbitrary Map</expanded-acronym>
+    <sub-class-of type="image/x-portable-anymap"/>
+    <magic>
+      <match type="string" value="P7\x0a" offset="0">
+        <match type="string" value="WIDTH" offset="0:256">
+          <match type="string" value="HEIGHT" offset="0:256">
+            <match type="string" value="DEPTH" offset="0:256">
+              <match type="string" value="ENDHDR" offset="0:256"/>
+            </match>
+          </match>
+        </match>
+      </match>
+    </magic>
+    <glob pattern="*.pam"/>
+  </mime-type>
   <mime-type type="image/x-xv-thumbnail">
     <!-- Translators: the "xv" image viewer typically has its name written
     in lowercase. We only break from that when expanding it as an acronym,
