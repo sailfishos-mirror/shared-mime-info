@@ -7108,6 +7108,19 @@ command to generate the output files.
     </magic>
     <glob pattern="*.ppm"/>
   </mime-type>
+  <mime-type type="image/x-xv-thumbnail">
+    <!-- Translators: the "xv" image viewer typically has its name written
+    in lowercase. We only break from that when expanding it as an acronym,
+    although it doesn't really "stand for" anything else. The program's FAQ
+    states: "xv stands for xv". -->
+    <comment>xv thumbnail</comment>
+    <acronym>XV</acronym>
+    <expanded-acronym>XV image viewer</expanded-acronym>
+    <magic>
+      <match type="string" value="P7 332\x0a" offset="0"/>
+    </magic>
+    <glob pattern="*.p7"/>
+  </mime-type>
   <mime-type type="image/vnd.adobe.photoshop">
     <comment>Photoshop image</comment>
     <magic>
