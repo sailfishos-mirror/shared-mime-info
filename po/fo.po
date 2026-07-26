@@ -4,13 +4,14 @@
 # 
 # Translators:
 # Gunleif Joensen <fo.umseting@gmail.com>, 2011
+# krvi, 2026
 msgid ""
 msgstr ""
 "Project-Id-Version: shared-mime-info\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-25 20:26+0200\n"
 "PO-Revision-Date: 2010-11-30 12:22+0000\n"
-"Last-Translator: Gunleif Joensen <fo.umseting@gmail.com>, 2011\n"
+"Last-Translator: krvi, 2026\n"
 "Language-Team: Faroese (http://app.transifex.com/freedesktop/shared-mime-info/language/fo/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,27 +21,27 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:83
 msgid "Atari 2600 ROM"
-msgstr ""
+msgstr "Atari 2600 lesiminni"
 
 #: data/freedesktop.org.xml.in:88
 msgid "Atari 7800 ROM"
-msgstr ""
+msgstr "Atari 7800 lesiminni"
 
 #: data/freedesktop.org.xml.in:96
 msgid "Atari Lynx ROM"
-msgstr ""
+msgstr "Atari Lynx lesiminni"
 
 #: data/freedesktop.org.xml.in:104
 msgid "ATK inset"
-msgstr "ATK innskot"
+msgstr "ATK-innskot"
 
 #: data/freedesktop.org.xml.in:111
 msgid "Electronic book document"
-msgstr ""
+msgstr "Ravbók"
 
 #: data/freedesktop.org.xml.in:125
 msgid "Kindle book document"
-msgstr ""
+msgstr "Kindle-ravbók"
 
 #: data/freedesktop.org.xml.in:132
 msgid "Adobe Illustrator document"
@@ -48,11 +49,11 @@ msgstr "Adobe Illustrator skjal"
 
 #: data/freedesktop.org.xml.in:138
 msgid "Macintosh BinHex-encoded file"
-msgstr "Macintosh BinHex-bronglað fíla"
+msgstr "Macintosh BinHex-kodað fíla"
 
 #: data/freedesktop.org.xml.in:148
 msgid "Mathematica Notebook file"
-msgstr ""
+msgstr "Mathematica-skriviblokkur"
 
 #: data/freedesktop.org.xml.in:163
 msgid "MathML document"
@@ -60,7 +61,7 @@ msgstr "MathML skjal"
 
 #: data/freedesktop.org.xml.in:172
 msgid "Mailbox file"
-msgstr ""
+msgstr "Postkassafíla"
 
 #: data/freedesktop.org.xml.in:181 data/freedesktop.org.xml.in:190
 msgid "Metalink file"
@@ -68,23 +69,23 @@ msgstr "Metalink fíla"
 
 #: data/freedesktop.org.xml.in:199
 msgid "Unknown"
-msgstr ""
+msgstr "Ókent"
 
 #: data/freedesktop.org.xml.in:202
 msgid "Partially downloaded file"
-msgstr ""
+msgstr "Lutvíst niðurtikin fíla"
 
 #: data/freedesktop.org.xml.in:209
 msgid "ODA document"
-msgstr "ODA skjal"
+msgstr "ODA-skjal"
 
 #: data/freedesktop.org.xml.in:216
 msgid "WWF document"
-msgstr ""
+msgstr "WWF-skjal"
 
 #: data/freedesktop.org.xml.in:223
 msgid "PDF document"
-msgstr "PDF skjal"
+msgstr "PDF-skjal"
 
 #: data/freedesktop.org.xml.in:237
 msgid "XSPF playlist"
@@ -96,23 +97,23 @@ msgstr "Microsoft Windows tema pakki"
 
 #: data/freedesktop.org.xml.in:257
 msgid "AmazonMP3 download file"
-msgstr ""
+msgstr "AmazonMP3-niðurtøkufíla"
 
 #: data/freedesktop.org.xml.in:261
 msgid "GSM 06.10 audio"
-msgstr "GSM 06.10 ljóður"
+msgstr "GSM 06.10 ljóð"
 
 #: data/freedesktop.org.xml.in:267
 msgid "iRiver playlist"
-msgstr ""
+msgstr "iRiver-spælilisti"
 
 #: data/freedesktop.org.xml.in:274
 msgid "PGP/MIME-encrypted message header"
-msgstr "PGP/MIME-encrypted boð tekshøvd"
+msgstr "PGP/MIME-bronglað boðteksthøvd"
 
 #: data/freedesktop.org.xml.in:284
 msgid "PGP keys"
-msgstr "PGP lyklar"
+msgstr "PGP-lyklar"
 
 #: data/freedesktop.org.xml.in:303
 msgid "Detached OpenPGP signature"
@@ -120,7 +121,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:314
 msgid "PKCS#7 file"
-msgstr ""
+msgstr "PKCS#7-fíla"
 
 #: data/freedesktop.org.xml.in:328
 msgid "Detached S/MIME signature"
@@ -128,11 +129,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:340
 msgid "PKCS#8 private key"
-msgstr "PKCS#8 privatur lykil"
+msgstr "PKCS#8-privatur lykil"
 
 #: data/freedesktop.org.xml.in:352
 msgid "PKCS#8 private key (encrypted)"
-msgstr ""
+msgstr "PKCS#8-privatur lykil (bronglaður)"
 
 #: data/freedesktop.org.xml.in:363
 msgid "PKCS#10 certification request"
@@ -148,11 +149,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:396
 msgid "PkiPath certification path"
-msgstr "PkiPath váttanleið"
+msgstr "PkiPath váttanarleið"
 
 #: data/freedesktop.org.xml.in:400
 msgid "PostScript document"
-msgstr ""
+msgstr "PostScript skjal"
 
 #: data/freedesktop.org.xml.in:410
 msgid "Plucker document"
@@ -164,15 +165,15 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:425
 msgid "RAML document"
-msgstr ""
+msgstr "RAML-skjal"
 
 #: data/freedesktop.org.xml.in:435
 msgid "RELAX NG XML schema"
-msgstr ""
+msgstr "RELAX NG XML talva"
 
 #: data/freedesktop.org.xml.in:444
 msgid "RTF document"
-msgstr "RTF skjal"
+msgstr "RTF-skjal"
 
 #: data/freedesktop.org.xml.in:456
 msgid "Sieve mail filter script"
@@ -180,11 +181,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:462
 msgid "SMIL document"
-msgstr "SMIL skjal"
+msgstr "SMIL-skjal"
 
 #: data/freedesktop.org.xml.in:480
 msgid "SPDX SBOM document"
-msgstr ""
+msgstr "SPDX SBOM skjal"
 
 #: data/freedesktop.org.xml.in:487
 msgid "WPL playlist"
@@ -192,11 +193,11 @@ msgstr "WPL avspælingarlisti"
 
 #: data/freedesktop.org.xml.in:497
 msgid "SQLite2 database"
-msgstr "SQLite2 dátustovnur"
+msgstr "SQLite2 dátugrunnur"
 
 #: data/freedesktop.org.xml.in:504
 msgid "SQLite3 database"
-msgstr "SQLite3 dátustovnur"
+msgstr "SQLite3 dátugrunnur"
 
 #: data/freedesktop.org.xml.in:512
 msgid "Apple System Profiler"
@@ -204,7 +205,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:523
 msgid "GEDCOM family history"
-msgstr "GEDCOM familjusøga"
+msgstr "GEDCOM ættarsøga"
 
 #: data/freedesktop.org.xml.in:537
 msgid "Flash video"
@@ -219,15 +220,15 @@ msgstr "JavaFX video"
 #. http://www.red-bean.com/sgf/
 #: data/freedesktop.org.xml.in:560
 msgid "SGF record"
-msgstr "SGF met"
+msgstr "SGF-skráseting"
 
 #: data/freedesktop.org.xml.in:572
 msgid "Godot Engine project"
-msgstr ""
+msgstr "Godot Engine verkætlan"
 
 #: data/freedesktop.org.xml.in:577
 msgid "Godot Engine resource"
-msgstr ""
+msgstr "Godot Engine tilfeingi"
 
 #: data/freedesktop.org.xml.in:585
 msgid "Godot Engine scene"
@@ -239,23 +240,23 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:599
 msgid "GDScript script"
-msgstr ""
+msgstr "GDScript-rit"
 
 #: data/freedesktop.org.xml.in:604
 msgid "ITS translation file"
-msgstr ""
+msgstr "ITS-týðingarfíla"
 
 #: data/freedesktop.org.xml.in:616
 msgid "XLIFF translation file"
-msgstr "XLIFF týðingarfíla"
+msgstr "XLIFF-týðingarfíla"
 
 #: data/freedesktop.org.xml.in:630
 msgid "TOML document"
-msgstr ""
+msgstr "TOML-skjal"
 
 #: data/freedesktop.org.xml.in:638
 msgid "YAML document"
-msgstr "YAML skjal"
+msgstr "YAML-skjal"
 
 #: data/freedesktop.org.xml.in:653
 msgid "Corel Draw drawing"
@@ -263,19 +264,19 @@ msgstr "Corel Draw tekning"
 
 #: data/freedesktop.org.xml.in:668
 msgid "HPGL file"
-msgstr "HPGL fíla"
+msgstr "HPGL-fíla"
 
 #: data/freedesktop.org.xml.in:675
 msgid "PCL file"
-msgstr "PCL fíla"
+msgstr "PCL-fíla"
 
 #: data/freedesktop.org.xml.in:682
 msgid "PostScript printer description"
-msgstr ""
+msgstr "PostScript printaralýsing"
 
 #: data/freedesktop.org.xml.in:690 data/freedesktop.org.xml.in:697
 msgid "CycloneDX BOM document"
-msgstr ""
+msgstr "CycloneDX BOM skjal"
 
 #: data/freedesktop.org.xml.in:711
 msgid "Lotus 1-2-3 spreadsheet"
@@ -283,15 +284,15 @@ msgstr "Lotus 1-2-3 rokniark"
 
 #: data/freedesktop.org.xml.in:728
 msgid "Lotus Word Pro document"
-msgstr ""
+msgstr "Lotus Word Pro skjal"
 
 #: data/freedesktop.org.xml.in:736
 msgid "LMDB database"
-msgstr ""
+msgstr "LMDB-dátugrunnur"
 
 #: data/freedesktop.org.xml.in:747
 msgid "JET database"
-msgstr "JET dátustovnur"
+msgstr "JET-dátugrunnur"
 
 #: data/freedesktop.org.xml.in:763
 msgid "Microsoft Cabinet archive"
@@ -303,15 +304,15 @@ msgstr "Excel rokniark"
 
 #: data/freedesktop.org.xml.in:795
 msgid "Excel add-in"
-msgstr ""
+msgstr "Excel-ískoytisforrit"
 
 #: data/freedesktop.org.xml.in:801
 msgid "Excel 2007 binary spreadsheet"
-msgstr ""
+msgstr "Excel 2007 tvítalskotað rokniark"
 
 #: data/freedesktop.org.xml.in:813
 msgid "Excel spreadsheet template"
-msgstr ""
+msgstr "Excel rokniarksformur"
 
 #: data/freedesktop.org.xml.in:819 data/freedesktop.org.xml.in:842
 #: data/freedesktop.org.xml.in:854
@@ -320,27 +321,27 @@ msgstr "PowerPoint framløga"
 
 #: data/freedesktop.org.xml.in:837
 msgid "PowerPoint add-in"
-msgstr ""
+msgstr "PowerPoint-ískoytisforrit"
 
 #: data/freedesktop.org.xml.in:848
 msgid "PowerPoint slide"
-msgstr ""
+msgstr "PowerPoint framløgumynd"
 
 #: data/freedesktop.org.xml.in:860
 msgid "PowerPoint presentation template"
-msgstr ""
+msgstr "PowerPoint framløguformur"
 
 #: data/freedesktop.org.xml.in:866 data/freedesktop.org.xml.in:884
 msgid "Office Open XML Visio drawing"
-msgstr ""
+msgstr "Office Open XML Visio tekning"
 
 #: data/freedesktop.org.xml.in:872 data/freedesktop.org.xml.in:890
 msgid "Office Open XML Visio template"
-msgstr ""
+msgstr "Office Open XML Visio formur"
 
 #: data/freedesktop.org.xml.in:878 data/freedesktop.org.xml.in:896
 msgid "Office Open XML Visio stencil"
-msgstr ""
+msgstr "Office Open XML Visio stensil"
 
 #: data/freedesktop.org.xml.in:902 data/freedesktop.org.xml.in:966
 msgid "Word document"
@@ -348,15 +349,15 @@ msgstr "Word skjal"
 
 #: data/freedesktop.org.xml.in:908
 msgid "Word document template"
-msgstr ""
+msgstr "Word skjalformur"
 
 #: data/freedesktop.org.xml.in:914
 msgid "OpenXPS document"
-msgstr ""
+msgstr "OpenXPS skjal"
 
 #: data/freedesktop.org.xml.in:922
 msgid "XPS document"
-msgstr "XPS skjal"
+msgstr "XPS-skjal"
 
 #: data/freedesktop.org.xml.in:931
 msgid "Microsoft Works document"
@@ -364,7 +365,7 @@ msgstr "Microsoft Works skjal"
 
 #: data/freedesktop.org.xml.in:951
 msgid "Microsoft Visio document"
-msgstr ""
+msgstr "Microsoft Visio skjal"
 
 #: data/freedesktop.org.xml.in:988
 msgid "Word template"
@@ -372,7 +373,7 @@ msgstr "Word formur"
 
 #: data/freedesktop.org.xml.in:994
 msgid "GML document"
-msgstr ""
+msgstr "GML-skjal"
 
 #: data/freedesktop.org.xml.in:1002
 msgid "GNUnet search file"
@@ -380,11 +381,11 @@ msgstr "GNUnet leitifíla"
 
 #: data/freedesktop.org.xml.in:1009
 msgid "TNEF message"
-msgstr "TNEF boð"
+msgstr "TNEF-boð"
 
 #: data/freedesktop.org.xml.in:1021
 msgid "StarCalc 3-4 spreadsheet"
-msgstr ""
+msgstr "StarCalc 3-4 rokniark"
 
 #: data/freedesktop.org.xml.in:1033
 msgid "StarChart 3-4 chart"
@@ -392,15 +393,15 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:1045
 msgid "StarDraw 4 drawing"
-msgstr ""
+msgstr "StarDraw 4 tekning"
 
 #: data/freedesktop.org.xml.in:1056
 msgid "StarImpress 3-4 presentation"
-msgstr ""
+msgstr "StarImpress 3-4 framløga"
 
 #: data/freedesktop.org.xml.in:1068
 msgid "StarMail 4 email"
-msgstr ""
+msgstr "StarMail 4 teldubræv"
 
 #: data/freedesktop.org.xml.in:1076
 msgid "StarMath 3-4 formula"
@@ -408,7 +409,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:1088
 msgid "StarWriter 3-4 document"
-msgstr ""
+msgstr "StarWriter 3-4 skjal"
 
 #: data/freedesktop.org.xml.in:1101
 msgid "StarWriter 4 master document"
@@ -416,7 +417,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:1112
 msgid "StarCalc 5 spreadsheet"
-msgstr ""
+msgstr "StarCalc 5 rokniark"
 
 #: data/freedesktop.org.xml.in:1123
 msgid "StarChart 5 chart"
@@ -424,11 +425,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:1134
 msgid "StarDraw 5 drawing"
-msgstr ""
+msgstr "StarDraw 5 tekning"
 
 #: data/freedesktop.org.xml.in:1145
 msgid "StarImpress 5 presentation"
-msgstr ""
+msgstr "StarImpress 5 framløga"
 
 #: data/freedesktop.org.xml.in:1156
 msgid "StarImpress packed presentation"
@@ -436,7 +437,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:1164
 msgid "StarMail 5 email"
-msgstr ""
+msgstr "StarMail 5 teldubræv"
 
 #: data/freedesktop.org.xml.in:1175
 msgid "StarMath 5 formula"
@@ -444,7 +445,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:1186
 msgid "StarWriter 5 document"
-msgstr ""
+msgstr "StarWriter 5 skjal"
 
 #: data/freedesktop.org.xml.in:1199
 msgid "StarWriter 5 master document"
@@ -452,35 +453,35 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:1210
 msgid "OpenOffice.org 1.0 Calc spreadsheet"
-msgstr ""
+msgstr "OpenOffice.org 1.0 Calc rokniark"
 
 #: data/freedesktop.org.xml.in:1223
 msgid "OpenOffice.org 1.0 Calc template"
-msgstr ""
+msgstr "OpenOffice.org 1.0 Calc formur"
 
 #: data/freedesktop.org.xml.in:1236
 msgid "OpenOffice.org 1.0 Draw drawing"
-msgstr ""
+msgstr "OpenOffice.org 1.0 Draw tekning"
 
 #: data/freedesktop.org.xml.in:1249
 msgid "OpenOffice.org 1.0 Draw template"
-msgstr ""
+msgstr "OpenOffice.org 1.0 Draw formur"
 
 #: data/freedesktop.org.xml.in:1262
 msgid "OpenOffice.org 1.0 Impress presentation"
-msgstr ""
+msgstr "OpenOffice.org 1.0 Impress framløga"
 
 #: data/freedesktop.org.xml.in:1275
 msgid "OpenOffice.org 1.0 Impress template"
-msgstr ""
+msgstr "OpenOffice.org 1.0 Impress formur"
 
 #: data/freedesktop.org.xml.in:1288
 msgid "OpenOffice.org 1.0 Math formula"
-msgstr ""
+msgstr "OpenOffice.org 1.0 Math formur"
 
 #: data/freedesktop.org.xml.in:1301
 msgid "OpenOffice.org 1.0 Writer document"
-msgstr ""
+msgstr "OpenOffice.org 1.0 Writer skjal"
 
 #: data/freedesktop.org.xml.in:1314
 msgid "OpenOffice.org 1.0 Writer global document"
@@ -488,27 +489,27 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:1327
 msgid "OpenOffice.org 1.0 Writer template"
-msgstr ""
+msgstr "OpenOffice.org 1.0 Writer formur"
 
 #: data/freedesktop.org.xml.in:1340
 msgid "ODT document"
-msgstr "ODT skjal"
+msgstr "ODT-skjal"
 
 #: data/freedesktop.org.xml.in:1355
 msgid "ODT document (Flat XML)"
-msgstr "ODT skjal (Flat XML)"
+msgstr "ODT-skjal (Flat XML)"
 
 #: data/freedesktop.org.xml.in:1363
 msgid "ODT template"
-msgstr "ODT formur"
+msgstr "ODT-formur"
 
 #: data/freedesktop.org.xml.in:1378
 msgid "OTH template"
-msgstr "OTH formur"
+msgstr "OTH-formur"
 
 #: data/freedesktop.org.xml.in:1393
 msgid "ODM document"
-msgstr "ODM skjal"
+msgstr "ODM-skjal"
 
 #: data/freedesktop.org.xml.in:1408
 msgid "ODM template"
@@ -516,67 +517,67 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:1423
 msgid "ODG drawing"
-msgstr "ODG tekning"
+msgstr "ODG-tekning"
 
 #: data/freedesktop.org.xml.in:1438
 msgid "ODG drawing (Flat XML)"
-msgstr "ODG tekning (Flat XML)"
+msgstr "ODG-tekning (Flat XML)"
 
 #: data/freedesktop.org.xml.in:1446
 msgid "ODG template"
-msgstr "ODG formur"
+msgstr "ODG-formur"
 
 #: data/freedesktop.org.xml.in:1461
 msgid "ODP presentation"
-msgstr "ODP framløga"
+msgstr "ODP-framløga"
 
 #: data/freedesktop.org.xml.in:1476
 msgid "ODP presentation (Flat XML)"
-msgstr "ODP framløga (Flat XML)"
+msgstr "ODP-framløga (Flat XML)"
 
 #: data/freedesktop.org.xml.in:1484
 msgid "ODP template"
-msgstr "ODP formur"
+msgstr "ODP-formur"
 
 #: data/freedesktop.org.xml.in:1499
 msgid "ODS spreadsheet"
-msgstr "ODS rokniark"
+msgstr "ODS-rokniark"
 
 #: data/freedesktop.org.xml.in:1514
 msgid "ODS spreadsheet (Flat XML)"
-msgstr "ODS rokniark (Flat XML)"
+msgstr "ODS-rokniark (Flat XML)"
 
 #: data/freedesktop.org.xml.in:1522
 msgid "ODS template"
-msgstr "ODS formur"
+msgstr "ODS-formur"
 
 #: data/freedesktop.org.xml.in:1537
 msgid "ODC chart"
-msgstr "ODC strikumynd"
+msgstr "ODC-strikumynd"
 
 #: data/freedesktop.org.xml.in:1552
 msgid "ODC template"
-msgstr "ODC formur"
+msgstr "ODC-formur"
 
 #: data/freedesktop.org.xml.in:1567
 msgid "ODF formula"
-msgstr "ODF frymil"
+msgstr "ODF-frymil"
 
 #: data/freedesktop.org.xml.in:1582
 msgid "ODF template"
-msgstr "ODF formur"
+msgstr "ODF-formur"
 
 #: data/freedesktop.org.xml.in:1597
 msgid "ODB database"
-msgstr "ODB dátustovnur"
+msgstr "ODB-dátugrunnur"
 
 #: data/freedesktop.org.xml.in:1614
 msgid "ODI image"
-msgstr "ODI mynd"
+msgstr "ODI-mynd"
 
 #: data/freedesktop.org.xml.in:1629
 msgid "LibreOffice extension"
-msgstr ""
+msgstr "LibreOffice ískoytisforrit"
 
 #: data/freedesktop.org.xml.in:1635
 msgid "Apache Parquet file"
@@ -588,7 +589,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:1650
 msgid "Android package"
-msgstr ""
+msgstr "Android pakki"
 
 #: data/freedesktop.org.xml.in:1655
 msgid "Alpine Package Keeper package"
@@ -596,19 +597,19 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:1661
 msgid "SIS package"
-msgstr "SIS pakki"
+msgstr "SIS-pakki"
 
 #: data/freedesktop.org.xml.in:1671
 msgid "SISX package"
-msgstr "SISX pakki"
+msgstr "SISX-pakki"
 
 #: data/freedesktop.org.xml.in:1681
 msgid "Network packet capture"
-msgstr ""
+msgstr "Netpakkafongur"
 
 #: data/freedesktop.org.xml.in:1693
 msgid "PCAPNG packet capture"
-msgstr ""
+msgstr "PCAPNG-pakkafongur"
 
 #: data/freedesktop.org.xml.in:1707
 msgid "WordPerfect document"
@@ -616,7 +617,7 @@ msgstr "WordPerfect skjal"
 
 #: data/freedesktop.org.xml.in:1726
 msgid "YouTube media archive"
-msgstr ""
+msgstr "YouTube miðlasavn"
 
 #: data/freedesktop.org.xml.in:1736
 msgid "SPSS portable data file"
@@ -624,11 +625,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:1745
 msgid "SPSS data file"
-msgstr ""
+msgstr "SPSS-dátufíla"
 
 #: data/freedesktop.org.xml.in:1757
 msgid "XBEL bookmarks"
-msgstr "XBEL bókamerki"
+msgstr "XBEL-bókamerki"
 
 #: data/freedesktop.org.xml.in:1768
 msgid "7-zip archive"
@@ -664,15 +665,15 @@ msgstr "Applix Words skjal"
 
 #: data/freedesktop.org.xml.in:1844
 msgid "ARC archive"
-msgstr "ARC skjalasavn"
+msgstr "ARC-skjalasavn"
 
 #: data/freedesktop.org.xml.in:1856
 msgid "AR archive"
-msgstr "AR skjalasavn"
+msgstr "AR-skjalasavn"
 
 #: data/freedesktop.org.xml.in:1867
 msgid "ARJ archive"
-msgstr "ARJ skjalasavn"
+msgstr "ARJ-skjalasavn"
 
 #: data/freedesktop.org.xml.in:1877
 msgid "Electron Archive (ASAR)"
@@ -680,7 +681,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:1888
 msgid "ASP page"
-msgstr "ASP síða"
+msgstr "ASP-síða"
 
 #. Translators: "sed" is (more often than not) written in
 #. lowercase in English articles, even at the starts of sentences.
@@ -688,25 +689,25 @@ msgstr "ASP síða"
 #. Wikipedia's usage for your language.
 #: data/freedesktop.org.xml.in:1901
 msgid "sed script"
-msgstr ""
+msgstr "sed skeljarrit"
 
 #. Translators: officially uses full capitalisation. Usually
 #. pronounced as a word. Compare: "NATO", "SMART"
 #: data/freedesktop.org.xml.in:1918
 msgid "AWK script"
-msgstr "AWK boðrøð"
+msgstr "AWK-skeljarrit"
 
 #: data/freedesktop.org.xml.in:1932
 msgid "GNU AWK script"
-msgstr ""
+msgstr "GNU AWK skeljarrit"
 
 #: data/freedesktop.org.xml.in:1946
 msgid "New (BWK) AWK script"
-msgstr ""
+msgstr "Nýtt (BWK) AWK skeljarrit"
 
 #: data/freedesktop.org.xml.in:1960
 msgid "BCPIO archive"
-msgstr ""
+msgstr "BCPIO-skjalasavn"
 
 #: data/freedesktop.org.xml.in:1967
 msgid "BitTorrent seed file"
@@ -718,47 +719,47 @@ msgstr "Blender leikmynd"
 
 #: data/freedesktop.org.xml.in:1983
 msgid "Brotli archive"
-msgstr ""
+msgstr "Brotli skjalasavn"
 
 #: data/freedesktop.org.xml.in:1992
 msgid "Tar archive (brotli-compressed)"
-msgstr ""
+msgstr "Tar-skjalasavn (brotli-stappað)"
 
 #: data/freedesktop.org.xml.in:1999
 msgid "TeX DVI document (bzip2-compressed)"
-msgstr ""
+msgstr "TeX DVI skjal (bzip2-stappað)"
 
 #: data/freedesktop.org.xml.in:2005
 msgid "Bzip1 archive"
-msgstr ""
+msgstr "Bzip1 skjalasavn"
 
 #: data/freedesktop.org.xml.in:2013
 msgid "Tar archive (bzip1-compressed)"
-msgstr ""
+msgstr "Tar-skjalasavn (bzip1-stappað)"
 
 #: data/freedesktop.org.xml.in:2020
 msgid "Bzip2 archive"
-msgstr ""
+msgstr "Bzip2 skjalasavn"
 
 #: data/freedesktop.org.xml.in:2030
 msgid "Tar archive (bzip2-compressed)"
-msgstr ""
+msgstr "Tar-skjalasavn (bzip2-stappað)"
 
 #: data/freedesktop.org.xml.in:2039
 msgid "Bzip3 archive"
-msgstr ""
+msgstr "Bzip3 skjalasavn"
 
 #: data/freedesktop.org.xml.in:2048
 msgid "Tar archive (bzip3-compressed)"
-msgstr ""
+msgstr "Tar-skjalasavn (bzip3-stappað)"
 
 #: data/freedesktop.org.xml.in:2055
 msgid "PDF document (bzip2-compressed)"
-msgstr ""
+msgstr "PDF-skjal (bzip2-stappað)"
 
 #: data/freedesktop.org.xml.in:2061
 msgid "PostScript document (bzip2-compressed)"
-msgstr ""
+msgstr "PostScript skjal (bzip2-stappað)"
 
 #: data/freedesktop.org.xml.in:2067
 msgid "Comic book archive (rar container)"
@@ -783,11 +784,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:2103
 msgid "Rzip archive"
-msgstr ""
+msgstr "Rzip skjalasavn"
 
 #: data/freedesktop.org.xml.in:2111
 msgid "Tar archive (rzip-compressed)"
-msgstr ""
+msgstr "Tar-skjalasavn (rzip-stappað)"
 
 #: data/freedesktop.org.xml.in:2118
 msgid "Lrzip archive"
@@ -795,7 +796,7 @@ msgstr "Lrzip skjalasavn"
 
 #: data/freedesktop.org.xml.in:2128
 msgid "Tar archive (lrzip-compressed)"
-msgstr "Tar skjalasavn (lrzip-stappað)"
+msgstr "Tar-skjalasavn (lrzip-stappað)"
 
 #: data/freedesktop.org.xml.in:2135
 msgid "Apple disk image"
@@ -827,7 +828,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:2200
 msgid "CD Table Of Contents"
-msgstr "CD innihaldsyvurlit"
+msgstr "CD-innihaldsyvirlit"
 
 #: data/freedesktop.org.xml.in:2215
 msgid "GD-ROM image cuesheet"
@@ -847,7 +848,7 @@ msgstr "PGN talv teknskipan"
 
 #: data/freedesktop.org.xml.in:2247
 msgid "CHM document"
-msgstr "CHM skjal"
+msgstr "CHM-skjal"
 
 #: data/freedesktop.org.xml.in:2255
 msgid "Java byte code"
@@ -859,7 +860,7 @@ msgstr "UNIX-stappað fíla"
 
 #: data/freedesktop.org.xml.in:2266
 msgid "Tar archive (gzip-compressed)"
-msgstr "Tar skjalasavn (gzip-stappað)"
+msgstr "Tar-skjalasavn (gzip-stappað)"
 
 #: data/freedesktop.org.xml.in:2273
 msgid "Program crash data"
@@ -867,19 +868,19 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:2292
 msgid "CPIO archive"
-msgstr "CPIO skjalasavn"
+msgstr "CPIO-skjalasavn"
 
 #: data/freedesktop.org.xml.in:2303
 msgid "CPIO archive (gzip-compressed)"
-msgstr "CPIO skjalasavn (gzip-stappað)"
+msgstr "CPIO-skjalasavn (gzip-stappað)"
 
 #: data/freedesktop.org.xml.in:2309
 msgid "Perf data"
-msgstr ""
+msgstr "Avrikanardátur"
 
 #: data/freedesktop.org.xml.in:2316
 msgid "C shell script"
-msgstr "C skel boðrøð"
+msgstr "C skeljarrit"
 
 #: data/freedesktop.org.xml.in:2332
 msgid "Xbase document"
@@ -906,7 +907,7 @@ msgstr ""
 #. https://en.wikipedia.org/wiki/Sega_Pico
 #: data/freedesktop.org.xml.in:2386
 msgid "Sega Pico ROM"
-msgstr ""
+msgstr "Sega Pico lesiminni"
 
 #: data/freedesktop.org.xml.in:2400
 msgid "Sega Saturn disc image"
@@ -918,11 +919,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:2417
 msgid "Nintendo DS ROM"
-msgstr "Nintendo DS ROM"
+msgstr "Nintendo DS lesiminni"
 
 #: data/freedesktop.org.xml.in:2428
 msgid "Nintendo 3DS ROM"
-msgstr ""
+msgstr "Nintendo 3DS lesiminni"
 
 #: data/freedesktop.org.xml.in:2437
 msgid "Nintendo 3DS Executable"
@@ -930,11 +931,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:2445
 msgid "Nintendo Switch encrypted ROM"
-msgstr ""
+msgstr "Nintendo Switch bronglað lesiminni"
 
 #: data/freedesktop.org.xml.in:2460
 msgid "PC Engine ROM"
-msgstr ""
+msgstr "PC Engine lesiminni"
 
 #: data/freedesktop.org.xml.in:2465
 msgid "Wii disc image"
@@ -950,11 +951,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:2513
 msgid "Thomson Mémo7 cartridge"
-msgstr ""
+msgstr "Thomson Mémo7-patrón"
 
 #: data/freedesktop.org.xml.in:2518
 msgid "Thomson cassette"
-msgstr ""
+msgstr "Thomson kassettuband"
 
 #: data/freedesktop.org.xml.in:2523
 msgid "HFE floppy disk image"
@@ -999,7 +1000,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:2644
 msgid "Commodore cartridge"
-msgstr ""
+msgstr "Commodore-patrón"
 
 #: data/freedesktop.org.xml.in:2658
 msgid "ZX Spectrum Z80 snapshot"
@@ -1055,7 +1056,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:2766
 msgid "CHIP-8 program"
-msgstr ""
+msgstr "CHIP-8 forrit"
 
 #: data/freedesktop.org.xml.in:2773
 msgid "CHIP-8 Octo source"
@@ -1067,7 +1068,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:2785
 msgid "TIC-80 cartridge"
-msgstr ""
+msgstr "TIC-80 patrón"
 
 #: data/freedesktop.org.xml.in:2793
 msgid "PICO-8 editable code"
@@ -1135,11 +1136,11 @@ msgstr "FLTK Fluid fíla"
 
 #: data/freedesktop.org.xml.in:2966
 msgid "WOFF font"
-msgstr ""
+msgstr "WOFF-stavsnið"
 
 #: data/freedesktop.org.xml.in:2977
 msgid "WOFF2 font"
-msgstr ""
+msgstr "WOFF2-stavsnið"
 
 #: data/freedesktop.org.xml.in:2987
 msgid "PostScript type-1 font"
@@ -1151,51 +1152,51 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:3008
 msgid "BDF font"
-msgstr "BDF stavasnið"
+msgstr "BDF-stavsnið"
 
 #: data/freedesktop.org.xml.in:3016
 msgid "DOS font"
-msgstr "DOS stavasnið"
+msgstr "DOS-stavsnið"
 
 #: data/freedesktop.org.xml.in:3025
 msgid "Adobe FrameMaker font"
-msgstr "Adobe FrameMaker stavasnið"
+msgstr "Adobe FrameMaker stavsnið"
 
 #: data/freedesktop.org.xml.in:3032
 msgid "LIBGRX font"
-msgstr "LIBGRX stavasnið"
+msgstr "LIBGRX-stavsnið"
 
 #: data/freedesktop.org.xml.in:3039
 msgid "Linux PSF console font"
-msgstr "Linux PSF stýristøðs stavasnið"
+msgstr "Linux PSF stýristøðstavsnið"
 
 #: data/freedesktop.org.xml.in:3049
 msgid "Linux PSF console font (gzip-compressed)"
-msgstr "Linux PSF stýristøðs stavasnið (gzip-stappað)"
+msgstr "Linux PSF stýristøðstavsnið (gzip-stappað)"
 
 #: data/freedesktop.org.xml.in:3057
 msgid "PCF font"
-msgstr "PCF stavasnið"
+msgstr "PCF-stavsnið"
 
 #: data/freedesktop.org.xml.in:3069
 msgid "OpenType font"
-msgstr "OpenType stavasnið"
+msgstr "OpenType stavsnið"
 
 #: data/freedesktop.org.xml.in:3079
 msgid "Speedo font"
-msgstr "Speedo stavasnið"
+msgstr "Speedo stavsnið"
 
 #: data/freedesktop.org.xml.in:3087
 msgid "SunOS News font"
-msgstr "SunOS News stavasnið"
+msgstr "SunOS News stavsnið"
 
 #: data/freedesktop.org.xml.in:3096
 msgid "TDPFR font"
-msgstr ""
+msgstr "TDPFR-stavsnið"
 
 #: data/freedesktop.org.xml.in:3108
 msgid "TeX font"
-msgstr "TeX stavasnið"
+msgstr "TeX stavsnið"
 
 #: data/freedesktop.org.xml.in:3117
 msgid "TeX font metrics"
@@ -1203,19 +1204,19 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:3125
 msgid "TrueType font"
-msgstr "TrueType stavasnið"
+msgstr "TrueType stavsnið"
 
 #: data/freedesktop.org.xml.in:3136
 msgid "Font collection"
-msgstr ""
+msgstr "Stavsniðsavn"
 
 #: data/freedesktop.org.xml.in:3141
 msgid "TrueType XML font"
-msgstr "TrueType XML stavasnið"
+msgstr "TrueType XML stavsnið"
 
 #: data/freedesktop.org.xml.in:3150
 msgid "V font"
-msgstr "V stavasnið"
+msgstr "V stavsnið"
 
 #: data/freedesktop.org.xml.in:3157
 msgid "Adobe FrameMaker document"
@@ -1223,23 +1224,23 @@ msgstr "Adobe FrameMaker skjal"
 
 #: data/freedesktop.org.xml.in:3172
 msgid "Game Boy ROM"
-msgstr "Game Boy ROM"
+msgstr "Game Boy lesiminni"
 
 #: data/freedesktop.org.xml.in:3183
 msgid "Game Boy Color ROM"
-msgstr ""
+msgstr "Game Boy Color lesiminni"
 
 #: data/freedesktop.org.xml.in:3194
 msgid "Game Boy Advance ROM"
-msgstr "Game Boy Advance ROM"
+msgstr "Game Boy Advance lesiminni"
 
 #: data/freedesktop.org.xml.in:3203
 msgid "Virtual Boy ROM"
-msgstr ""
+msgstr "Virtual Boy lesiminni"
 
 #: data/freedesktop.org.xml.in:3208
 msgid "GDBM database"
-msgstr "GDBM dátustovnur"
+msgstr "GDBM-dátugrunnur"
 
 #. Translate "Genesis" to "Mega Drive" if the console was known as
 #. such in your locale. Should be "Mega Drive" in all but en_US,
@@ -1255,7 +1256,7 @@ msgstr ""
 #. https://en.wikipedia.org/wiki/Sega_Genesis#History
 #: data/freedesktop.org.xml.in:3238
 msgid "Genesis ROM"
-msgstr "Genesis ROM"
+msgstr "Genesis lesiminni"
 
 #. Translate "Genesis 32X" to "Super 32X", "Mega Drive 32X",
 #. or "Mega 32X" if the system was known as such in your locale.
@@ -1263,7 +1264,7 @@ msgstr "Genesis ROM"
 #. and "Mega 32X" in Brazil: https://en.wikipedia.org/wiki/32X
 #: data/freedesktop.org.xml.in:3259
 msgid "Genesis 32X ROM"
-msgstr ""
+msgstr "Mega Drive 32X lesiminni"
 
 #: data/freedesktop.org.xml.in:3269
 msgid "Translated messages (machine-readable)"
@@ -1291,7 +1292,7 @@ msgstr "Gnuplot skjal"
 
 #: data/freedesktop.org.xml.in:3320
 msgid "Graphite scientific graph"
-msgstr "Grapite vísindarlig ritmynd"
+msgstr "Grapite vísindalig ritmynd"
 
 #: data/freedesktop.org.xml.in:3325
 msgid "GTKtalog catalog"
@@ -1307,7 +1308,7 @@ msgstr "Gzip skjalasavn"
 
 #: data/freedesktop.org.xml.in:3347
 msgid "PDF document (gzip-compressed)"
-msgstr "PDF skjal (gzip-stappað)"
+msgstr "PDF-skjal (gzip-stappað)"
 
 #: data/freedesktop.org.xml.in:3353
 msgid "PostScript document (gzip-compressed)"
@@ -1315,11 +1316,11 @@ msgstr "PostScript skjal (gzip-stappað)"
 
 #: data/freedesktop.org.xml.in:3359
 msgid "HDF document"
-msgstr "HDF skjal"
+msgstr "HDF-skjal"
 
 #: data/freedesktop.org.xml.in:3374
 msgid "IFF file"
-msgstr ""
+msgstr "IFF-fíla"
 
 #: data/freedesktop.org.xml.in:3382
 msgid "iPod firmware"
@@ -1331,23 +1332,23 @@ msgstr "Java skjalasavn"
 
 #: data/freedesktop.org.xml.in:3396
 msgid "Java class"
-msgstr "Java flokkur"
+msgstr "Java klassi"
 
 #: data/freedesktop.org.xml.in:3408
 msgid "Groovy source code"
-msgstr ""
+msgstr "Groovy keldukota"
 
 #: data/freedesktop.org.xml.in:3424
 msgid "Gradle script"
-msgstr ""
+msgstr "Gradle skeljarrit"
 
 #: data/freedesktop.org.xml.in:3428
 msgid "Kotlin Gradle script"
-msgstr ""
+msgstr "Kotlin Gradle skeljarrit"
 
 #: data/freedesktop.org.xml.in:3433
 msgid "JNLP file"
-msgstr "JNLP fíla"
+msgstr "JNLP-fíla"
 
 #: data/freedesktop.org.xml.in:3444
 msgid "Java keystore"
@@ -1375,19 +1376,19 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:3518
 msgid "JSON document"
-msgstr ""
+msgstr "JSON-skjal"
 
 #: data/freedesktop.org.xml.in:3526
 msgid "JSON5 document"
-msgstr ""
+msgstr "JSON5-skjal"
 
 #: data/freedesktop.org.xml.in:3534
 msgid "HTTP archive"
-msgstr ""
+msgstr "HTTP-skjalasavn"
 
 #: data/freedesktop.org.xml.in:3545
 msgid "JRD document"
-msgstr ""
+msgstr "JRD-skjal"
 
 #: data/freedesktop.org.xml.in:3553
 msgid "JSON patch"
@@ -1395,7 +1396,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:3561
 msgid "JSON-LD document"
-msgstr ""
+msgstr "JSON-LD-skjal"
 
 #: data/freedesktop.org.xml.in:3569
 msgid "JSON schema"
@@ -1407,7 +1408,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:3591
 msgid "CoffeeScript document"
-msgstr ""
+msgstr "CoffeeScript skjal"
 
 #: data/freedesktop.org.xml.in:3597
 msgid "JBuilder project"
@@ -1423,15 +1424,15 @@ msgstr "KChart strikumynd"
 
 #: data/freedesktop.org.xml.in:3637
 msgid "Kexi settings"
-msgstr ""
+msgstr "Kexi stillingar"
 
 #: data/freedesktop.org.xml.in:3641
 msgid "Kexi shortcut"
-msgstr ""
+msgstr "Kexi snarvegur"
 
 #: data/freedesktop.org.xml.in:3645 data/freedesktop.org.xml.in:3650
 msgid "Kexi database file"
-msgstr ""
+msgstr "Kexi dátugrunnsfíla"
 
 #: data/freedesktop.org.xml.in:3657
 msgid "KFormula formula"
@@ -1487,11 +1488,11 @@ msgstr "KWord skjal (bronglað)"
 
 #: data/freedesktop.org.xml.in:3827
 msgid "LHA archive"
-msgstr "LHA skjalasavn"
+msgstr "LHA-skjalasavn"
 
 #: data/freedesktop.org.xml.in:3848
 msgid "LHZ archive"
-msgstr "LHZ skjalasavn"
+msgstr "LHZ-skjalasavn"
 
 #: data/freedesktop.org.xml.in:3853
 msgid "Message catalog"
@@ -1503,11 +1504,11 @@ msgstr "LyX skjal"
 
 #: data/freedesktop.org.xml.in:3874
 msgid "LZ4 archive"
-msgstr ""
+msgstr "LZ4-skjalasavn"
 
 #: data/freedesktop.org.xml.in:3883
 msgid "Tar archive (LZ4-compressed)"
-msgstr ""
+msgstr "Tar-skjalasavn (LZ4-stappað)"
 
 #: data/freedesktop.org.xml.in:3889
 msgid "Lzip archive"
@@ -1515,35 +1516,35 @@ msgstr "Lzip skjalasavn"
 
 #: data/freedesktop.org.xml.in:3897
 msgid "Tar archive (lzip-compressed)"
-msgstr ""
+msgstr "Tar-skjalasavn (lzip-stappað)"
 
 #: data/freedesktop.org.xml.in:3903
 msgid "PDF document (lzip-compressed)"
-msgstr ""
+msgstr "PDF-skjal (lzip-stappað)"
 
 #: data/freedesktop.org.xml.in:3909
 msgid "LZMA archive"
-msgstr "LZMA skjalasavn"
+msgstr "LZMA-skjalasavn"
 
 #: data/freedesktop.org.xml.in:3916
 msgid "Tar archive (LZMA-compressed)"
-msgstr "Tar skjalasavn (LZMA-stappað)"
+msgstr "Tar-skjalasavn (LZMA-stappað)"
 
 #: data/freedesktop.org.xml.in:3923
 msgid "LZO archive"
-msgstr "LZO skjalasavn"
+msgstr "LZO-skjalasavn"
 
 #: data/freedesktop.org.xml.in:3933
 msgid "Qpress archive"
-msgstr ""
+msgstr "Qpress skjalasavn"
 
 #: data/freedesktop.org.xml.in:3941
 msgid "XAR archive"
-msgstr ""
+msgstr "XAR-skjalasavn"
 
 #: data/freedesktop.org.xml.in:3953
 msgid "Zlib archive"
-msgstr ""
+msgstr "Zlib skjalasavn"
 
 #: data/freedesktop.org.xml.in:3958
 msgid "MagicPoint presentation"
@@ -1555,7 +1556,7 @@ msgstr "Macintosh MacBinary fíla"
 
 #: data/freedesktop.org.xml.in:3971
 msgid "Matroska stream"
-msgstr "Matroska streymur"
+msgstr "Matroska stroymur"
 
 #: data/freedesktop.org.xml.in:3985
 msgid "Matroska video"
@@ -1567,7 +1568,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:3997
 msgid "Matroska audio"
-msgstr "Matroska ljóður"
+msgstr "Matroska ljóð"
 
 #: data/freedesktop.org.xml.in:4003
 msgid "WebM video"
@@ -1575,7 +1576,7 @@ msgstr "WebM video"
 
 #: data/freedesktop.org.xml.in:4017
 msgid "WebM audio"
-msgstr "WebM ljóður"
+msgstr "WebM ljóð"
 
 #: data/freedesktop.org.xml.in:4021
 msgid "MHTML web archive"
@@ -1587,15 +1588,15 @@ msgstr "MXF video"
 
 #: data/freedesktop.org.xml.in:4039
 msgid "OCL file"
-msgstr "OCL fíla"
+msgstr "OCL-fíla"
 
 #: data/freedesktop.org.xml.in:4046
 msgid "COBOL source code"
-msgstr ""
+msgstr "COBOL-keldukota"
 
 #: data/freedesktop.org.xml.in:4054
 msgid "Mobipocket e-book"
-msgstr ""
+msgstr "Mobipocket ravbók"
 
 #: data/freedesktop.org.xml.in:4068
 msgid "Adobe FrameMaker MIF document"
@@ -1607,7 +1608,7 @@ msgstr "Mozilla bókamerki"
 
 #: data/freedesktop.org.xml.in:4081
 msgid "Windows or DOS program"
-msgstr ""
+msgstr "Windows ella DOS forrit"
 
 #: data/freedesktop.org.xml.in:4097
 msgid "DOS executable"
@@ -1623,7 +1624,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:4147
 msgid "Windows or EFI program"
-msgstr ""
+msgstr "Windows ella EFI forrit"
 
 #: data/freedesktop.org.xml.in:4167
 msgid "Windows program database"
@@ -1635,11 +1636,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:4230
 msgid "DOS/Windows batch file"
-msgstr ""
+msgstr "DOS/Windows bektfíla"
 
 #: data/freedesktop.org.xml.in:4248
 msgid "PowerShell script"
-msgstr ""
+msgstr "PowerShell skeljarrit"
 
 #: data/freedesktop.org.xml.in:4258
 msgid "Windows scriptlet"
@@ -1647,7 +1648,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:4268
 msgid "Windows shortcut"
-msgstr ""
+msgstr "Windows snarvegur"
 
 #: data/freedesktop.org.xml.in:4277
 msgid "Internet shortcut"
@@ -1655,11 +1656,11 @@ msgstr "Alnetssnarvegur"
 
 #: data/freedesktop.org.xml.in:4289
 msgid "WRI document"
-msgstr "WRI skjal"
+msgstr "WRI-skjal"
 
 #: data/freedesktop.org.xml.in:4294
 msgid "MSX ROM"
-msgstr "MSX ROM"
+msgstr "MSX-lesiminni"
 
 #: data/freedesktop.org.xml.in:4299
 msgid "M4 macro"
@@ -1667,7 +1668,7 @@ msgstr "M4 fjølvi"
 
 #: data/freedesktop.org.xml.in:4305
 msgid "Nintendo64 ROM"
-msgstr "Nintendo64 ROM"
+msgstr "Nintendo64 lesiminni"
 
 #: data/freedesktop.org.xml.in:4320
 msgid "Nautilus link"
@@ -1675,16 +1676,16 @@ msgstr "Nautilus leinkja"
 
 #: data/freedesktop.org.xml.in:4328
 msgid "Neo-Geo Pocket ROM"
-msgstr ""
+msgstr "Neo-Geo Pocket lesiminni"
 
 #: data/freedesktop.org.xml.in:4339
 msgid "Neo-Geo Pocket Color ROM"
-msgstr ""
+msgstr "Neo-Geo Pocket Color lesiminni"
 
 #. Translate this to Famicom if the console was known as such in your locale
 #: data/freedesktop.org.xml.in:4351
 msgid "NES ROM"
-msgstr "NES ROM"
+msgstr "NES-lesiminni"
 
 #: data/freedesktop.org.xml.in:4359
 msgid "Unidata NetCDF document"
@@ -1708,7 +1709,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:4418
 msgid "Annodex audio"
-msgstr ""
+msgstr "Annodex ljóð"
 
 #: data/freedesktop.org.xml.in:4431
 msgid "Ogg multimedia file"
@@ -1716,7 +1717,7 @@ msgstr "Ogg margmiðlafíla"
 
 #: data/freedesktop.org.xml.in:4440
 msgid "Ogg audio"
-msgstr ""
+msgstr "Ogg ljóð"
 
 #: data/freedesktop.org.xml.in:4451
 msgid "Ogg video"
@@ -1724,23 +1725,23 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:4461
 msgid "Ogg Vorbis audio"
-msgstr "Ogg Vorbis ljóður"
+msgstr "Ogg Vorbis ljóð"
 
 #: data/freedesktop.org.xml.in:4474
 msgid "Ogg FLAC audio"
-msgstr "Ogg FLAC ljóður"
+msgstr "Ogg FLAC ljóð"
 
 #: data/freedesktop.org.xml.in:4489
 msgid "Opus audio"
-msgstr ""
+msgstr "Opus ljóð"
 
 #: data/freedesktop.org.xml.in:4499
 msgid "Ogg Speex audio"
-msgstr "Ogg Speex ljóður"
+msgstr "Ogg Speex ljóð"
 
 #: data/freedesktop.org.xml.in:4511
 msgid "Speex audio"
-msgstr "Speex ljóður"
+msgstr "Speex ljóð"
 
 #: data/freedesktop.org.xml.in:4518
 msgid "Ogg Theora video"
@@ -1748,7 +1749,7 @@ msgstr "Ogg Theora video"
 
 #: data/freedesktop.org.xml.in:4529
 msgid "OGM video"
-msgstr "OGM video"
+msgstr "OGM-video"
 
 #: data/freedesktop.org.xml.in:4542
 msgid "OLE2 compound document storage"
@@ -1756,15 +1757,15 @@ msgstr "OLE2 samansett skjalagoymsla"
 
 #: data/freedesktop.org.xml.in:4549
 msgid "Microsoft Windows Thumbnail Cache"
-msgstr ""
+msgstr "Microsoft Windows smámyndakovi"
 
 #: data/freedesktop.org.xml.in:4561
 msgid "Microsoft Publisher document"
-msgstr ""
+msgstr "Microsoft Publisher skjal"
 
 #: data/freedesktop.org.xml.in:4572
 msgid "QuarkXPress document"
-msgstr ""
+msgstr "QuarkXPress skjal"
 
 #: data/freedesktop.org.xml.in:4586
 msgid "Windows Installer package"
@@ -1800,7 +1801,7 @@ msgstr "PAK skjalasavn"
 
 #: data/freedesktop.org.xml.in:4660
 msgid "Palm OS database"
-msgstr "Palm OS dátustovnur"
+msgstr "Palm OS dátugrunnur"
 
 #: data/freedesktop.org.xml.in:4668
 msgid "Parchive archive"
@@ -1812,15 +1813,15 @@ msgstr "PEF inningarfør"
 
 #: data/freedesktop.org.xml.in:4688
 msgid "Perl script"
-msgstr "Perl boðrøð"
+msgstr "Perl skeljarrit"
 
 #: data/freedesktop.org.xml.in:4717
 msgid "PHP script"
-msgstr "PHP boðrøð"
+msgstr "PHP skeljarrit"
 
 #: data/freedesktop.org.xml.in:4730
 msgid "PKCS#7 certificate bundle"
-msgstr "PKCS#7 váttanar bundi"
+msgstr ""
 
 #: data/freedesktop.org.xml.in:4743
 msgid "Windows security catalog"
@@ -1828,7 +1829,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:4750
 msgid "PKCS#12 certificate bundle"
-msgstr "PKCS#12 váttanar bundi"
+msgstr ""
 
 #: data/freedesktop.org.xml.in:4760
 msgid "PlanPerfect spreadsheet"
@@ -1860,7 +1861,7 @@ msgstr "Quattro Pro rokniark"
 
 #: data/freedesktop.org.xml.in:4815
 msgid "QuickTime playlist"
-msgstr ""
+msgstr "QuickTime spælilisti"
 
 #: data/freedesktop.org.xml.in:4830
 msgid "Quicken document"
@@ -1868,15 +1869,15 @@ msgstr "Quicken skjal"
 
 #: data/freedesktop.org.xml.in:4835
 msgid "RAR archive"
-msgstr "RAR skjalasavn"
+msgstr "RAR-skjalasavn"
 
 #: data/freedesktop.org.xml.in:4847
 msgid "DAR archive"
-msgstr "DAR skjalasavn"
+msgstr "DAR-skjalasavn"
 
 #: data/freedesktop.org.xml.in:4857
 msgid "Alzip archive"
-msgstr "Alsip skjalasavn"
+msgstr "Alzip skjalasavn"
 
 #: data/freedesktop.org.xml.in:4865
 msgid "Rejected patch"
@@ -1884,7 +1885,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:4872
 msgid "RPM package"
-msgstr "RPM pakki"
+msgstr "RPM-pakki"
 
 #: data/freedesktop.org.xml.in:4881
 msgid "Source RPM package"
@@ -1892,23 +1893,23 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:4888
 msgid "Ruby script"
-msgstr "Ruby boðrøð"
+msgstr "Ruby skeljarrit"
 
 #: data/freedesktop.org.xml.in:4905
 msgid "Markaby script"
-msgstr "Markaby boðrøð"
+msgstr "Markaby skeljarrit"
 
 #: data/freedesktop.org.xml.in:4911
 msgid "Crystal source code"
-msgstr ""
+msgstr "Crystal keldukota"
 
 #: data/freedesktop.org.xml.in:4923
 msgid "Julia source code"
-msgstr ""
+msgstr "Julia keldukota"
 
 #: data/freedesktop.org.xml.in:4935
 msgid "Rust source code"
-msgstr ""
+msgstr "Rust keldukota"
 
 #: data/freedesktop.org.xml.in:4949
 msgid "SC/Xspread spreadsheet"
@@ -1928,15 +1929,15 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:4977
 msgid "Shell script"
-msgstr ""
+msgstr "Skeljarrit"
 
 #: data/freedesktop.org.xml.in:5000
 msgid "Fish shell script"
-msgstr ""
+msgstr "Fish skeljarrit"
 
 #: data/freedesktop.org.xml.in:5011
 msgid "Nushell script"
-msgstr ""
+msgstr "Nushell skeljarrit"
 
 #: data/freedesktop.org.xml.in:5022
 msgid "Shockwave Flash file"
@@ -1945,7 +1946,7 @@ msgstr "Shockwave Flash fíla"
 #. translators: "Shorten" is the name of an audio codec
 #: data/freedesktop.org.xml.in:5036
 msgid "Shorten audio"
-msgstr "Shorten ljóður"
+msgstr "Shorten ljóð"
 
 #: data/freedesktop.org.xml.in:5045
 msgid "Siag spreadsheet"
@@ -1961,23 +1962,23 @@ msgstr "Stampede pakki"
 
 #: data/freedesktop.org.xml.in:5062
 msgid "SG-1000 ROM"
-msgstr ""
+msgstr "SG-1000 lesiminni"
 
 #. Translate this to "Master System/Mark III" if the console was known as such
 #. in your locale (probably only in Japan)
 #: data/freedesktop.org.xml.in:5068
 msgid "Master System ROM"
-msgstr ""
+msgstr "Master System lesiminni"
 
 #: data/freedesktop.org.xml.in:5080
 msgid "Game Gear ROM"
-msgstr ""
+msgstr "Game Gear lesiminni"
 
 #. Translate this as Super Famicom (in Far East Asia) or Super Nintendo (in
 #. Europe) if the console was known as such in your locale
 #: data/freedesktop.org.xml.in:5094
 msgid "Super NES ROM"
-msgstr "Super NES ROM"
+msgstr "Super NES lesiminni"
 
 #: data/freedesktop.org.xml.in:5101
 msgid "StuffIt archive"
@@ -1985,7 +1986,7 @@ msgstr "StuffIt skjalasavn"
 
 #: data/freedesktop.org.xml.in:5112
 msgid "StuffIt X archive"
-msgstr ""
+msgstr "StuffIt X skjalasavn"
 
 #: data/freedesktop.org.xml.in:5121
 msgid "SubRip subtitles"
@@ -1993,7 +1994,7 @@ msgstr "SubRip undirtekstir"
 
 #: data/freedesktop.org.xml.in:5133
 msgid "WebVTT subtitles"
-msgstr ""
+msgstr "WebVTT undirtekstir"
 
 #: data/freedesktop.org.xml.in:5144
 msgid "SAMI subtitles"
@@ -2005,27 +2006,27 @@ msgstr "MicroDVD undirtekstir"
 
 #: data/freedesktop.org.xml.in:5166
 msgid "MPL2 subtitles"
-msgstr ""
+msgstr "MPL2 undirtekstir"
 
 #: data/freedesktop.org.xml.in:5176
 msgid "MPlayer subtitles"
-msgstr ""
+msgstr "MPlayer undirtekstir"
 
 #: data/freedesktop.org.xml.in:5184
 msgid "SSA subtitles"
-msgstr "SSA undirtekstir"
+msgstr "SSA-undirtekstir"
 
 #: data/freedesktop.org.xml.in:5196
 msgid "Song lyrics"
-msgstr ""
+msgstr "Sangtekstir"
 
 #: data/freedesktop.org.xml.in:5207
 msgid "OpenSSH public key"
-msgstr ""
+msgstr "OpenSSH almennur lykil"
 
 #: data/freedesktop.org.xml.in:5236
 msgid "OpenSSH private key"
-msgstr ""
+msgstr "OpenSSH privatur lykil"
 
 #: data/freedesktop.org.xml.in:5243
 msgid "SubViewer subtitles"
@@ -2037,7 +2038,7 @@ msgstr "iMelody ringitóni"
 
 #: data/freedesktop.org.xml.in:5262
 msgid "SMAF audio"
-msgstr "SMAF ljóður"
+msgstr "SMAF-ljóð"
 
 #: data/freedesktop.org.xml.in:5274
 msgid "MRML playlist"
@@ -2045,7 +2046,7 @@ msgstr "MRML avspælingarlisti"
 
 #: data/freedesktop.org.xml.in:5285
 msgid "XMF audio"
-msgstr "XMF ljóður"
+msgstr "XMF-ljóð"
 
 #: data/freedesktop.org.xml.in:5295
 msgid "Mobile XMF audio"
@@ -2061,11 +2062,11 @@ msgstr "SV4 CPIO skjalasavn (við CRC)"
 
 #: data/freedesktop.org.xml.in:5315
 msgid "Tar archive"
-msgstr "Tar skjalasavn"
+msgstr "Tar-skjalasavn"
 
 #: data/freedesktop.org.xml.in:5327
 msgid "Tar archive (compressed)"
-msgstr "Tar skjalasavn (stappað)"
+msgstr "Tar-skjalasavn (stappað)"
 
 #: data/freedesktop.org.xml.in:5334
 msgid "Generic font file"
@@ -2077,11 +2078,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:5344
 msgid "TGIF document"
-msgstr "TGIF skjal"
+msgstr "TGIF-skjal"
 
 #: data/freedesktop.org.xml.in:5352
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 #: data/freedesktop.org.xml.in:5358
 msgid "ToutDoux document"
@@ -2089,7 +2090,7 @@ msgstr "ToutDoux skjal"
 
 #: data/freedesktop.org.xml.in:5362
 msgid "Backup file"
-msgstr ""
+msgstr "Trygdaravritsfíla"
 
 #: data/freedesktop.org.xml.in:5370
 msgid "Troff document"
@@ -2105,31 +2106,31 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:5396
 msgid "Tar archive (LZO-compressed)"
-msgstr "Tar skjalasavn (LZO-stappað)"
+msgstr "Tar-skjalasavn (LZO-stappað)"
 
 #: data/freedesktop.org.xml.in:5403
 msgid "XZ archive"
-msgstr "XZ skjalasavn"
+msgstr "XZ-skjalasavn"
 
 #: data/freedesktop.org.xml.in:5411
 msgid "Tar archive (XZ-compressed)"
-msgstr "Tar skjalasavn(XZ-stappað)"
+msgstr "Tar-skjalasavn(XZ-stappað)"
 
 #: data/freedesktop.org.xml.in:5418
 msgid "Zpaq Archive"
-msgstr ""
+msgstr "Zpaq skjalasavn"
 
 #: data/freedesktop.org.xml.in:5426
 msgid "Zstandard archive"
-msgstr ""
+msgstr "Zstandard skjalasavn"
 
 #: data/freedesktop.org.xml.in:5434
 msgid "Tar archive (Zstandard-compressed)"
-msgstr ""
+msgstr "Tar-skjalasavn (Zstandard-stappað)"
 
 #: data/freedesktop.org.xml.in:5441
 msgid "PDF document (XZ-compressed)"
-msgstr ""
+msgstr "PDF-skjal (XZ-stappað)"
 
 #: data/freedesktop.org.xml.in:5447
 msgid "Ustar archive"
@@ -2137,7 +2138,7 @@ msgstr "Ustar skjalasavn"
 
 #: data/freedesktop.org.xml.in:5452
 msgid "WAIS source code"
-msgstr "WAIS keldukota"
+msgstr "WAIS-keldukota"
 
 #: data/freedesktop.org.xml.in:5458
 msgid "WordPerfect/Drawperfect image"
@@ -2145,11 +2146,11 @@ msgstr "WordPerfect/Drawperfect mynd"
 
 #: data/freedesktop.org.xml.in:5463
 msgid "Bandai WonderSwan ROM"
-msgstr ""
+msgstr "Bandai WonderSwan lesiminni"
 
 #: data/freedesktop.org.xml.in:5468
 msgid "Bandai WonderSwan Color ROM"
-msgstr ""
+msgstr "Bandai WonderSwan Color lesiminni"
 
 #: data/freedesktop.org.xml.in:5473
 msgid "X.509 CA certificate"
@@ -2157,7 +2158,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:5488
 msgid "Empty document"
-msgstr ""
+msgstr "Tómt skjal"
 
 #: data/freedesktop.org.xml.in:5491
 msgid "Zoo archive"
@@ -2165,7 +2166,7 @@ msgstr "Zoo skjalasavn"
 
 #: data/freedesktop.org.xml.in:5499
 msgid "XHTML page"
-msgstr "XHTML síða"
+msgstr "XHTML-síða"
 
 #: data/freedesktop.org.xml.in:5517
 msgid "Zip archive"
@@ -2177,27 +2178,27 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:5538
 msgid "Dolby Digital audio"
-msgstr "Dolby Digital ljóður"
+msgstr "Dolby Digital ljóð"
 
 #: data/freedesktop.org.xml.in:5545
 msgid "DTS audio"
-msgstr ""
+msgstr "DTS-ljóð"
 
 #: data/freedesktop.org.xml.in:5558
 msgid "DTS-HD audio"
-msgstr ""
+msgstr "DTS-HD-ljóð"
 
 #: data/freedesktop.org.xml.in:5571
 msgid "AMR audio"
-msgstr "AMR ljóður"
+msgstr "AMR-ljóð"
 
 #: data/freedesktop.org.xml.in:5582
 msgid "AMR-WB audio"
-msgstr "AMR-WB ljóður"
+msgstr "AMR-WB-ljóð"
 
 #: data/freedesktop.org.xml.in:5593
 msgid "ULAW (Sun) audio"
-msgstr "ULAW (Sun) ljóður"
+msgstr "ULAW (Sun) ljóð"
 
 #: data/freedesktop.org.xml.in:5601
 msgid "Commodore 64 audio"
@@ -2205,23 +2206,23 @@ msgstr "Commodore 64 ljóð"
 
 #: data/freedesktop.org.xml.in:5609
 msgid "PCM audio"
-msgstr "PCM ljóður"
+msgstr "PCM-ljóð"
 
 #: data/freedesktop.org.xml.in:5629
 msgid "AIFC audio"
-msgstr "AIFC ljóður"
+msgstr "AIFC-ljóð"
 
 #: data/freedesktop.org.xml.in:5641
 msgid "AIFF/Amiga/Mac audio"
-msgstr "AIFF/Amiga/Mac ljóður"
+msgstr "AIFF/Amiga/Mac ljóð"
 
 #: data/freedesktop.org.xml.in:5653
 msgid "Monkey's audio"
-msgstr "Monkey's ljóður"
+msgstr "Monkey's ljóð"
 
 #: data/freedesktop.org.xml.in:5660
 msgid "Audible.Com audio"
-msgstr ""
+msgstr "Audible.Com ljóð"
 
 #: data/freedesktop.org.xml.in:5669 data/freedesktop.org.xml.in:5676
 msgid "Audible Enhanced audio"
@@ -2229,27 +2230,27 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:5683
 msgid "DSDIFF audio"
-msgstr ""
+msgstr "DSDIFF-ljóð"
 
 #: data/freedesktop.org.xml.in:5696
 msgid "DSF audio"
-msgstr ""
+msgstr "DSF-ljóð"
 
 #: data/freedesktop.org.xml.in:5714
 msgid "Impulse Tracker audio"
-msgstr "Impulse Tracker ljóður"
+msgstr "Impulse Tracker ljóð"
 
 #: data/freedesktop.org.xml.in:5721
 msgid "FLAC audio"
-msgstr "FLAC ljóður"
+msgstr "FLAC-ljóð"
 
 #: data/freedesktop.org.xml.in:5731
 msgid "TAK audio"
-msgstr ""
+msgstr "TAK-ljóð"
 
 #: data/freedesktop.org.xml.in:5740
 msgid "WavPack audio"
-msgstr "WavPack ljóður"
+msgstr "WavPack ljóð"
 
 #: data/freedesktop.org.xml.in:5748
 msgid "WavPack audio correction file"
@@ -2257,7 +2258,7 @@ msgstr "WavPack ljóðrættingarfíla"
 
 #: data/freedesktop.org.xml.in:5755
 msgid "MIDI audio"
-msgstr "MIDI ljóður"
+msgstr "MIDI-ljóð"
 
 #: data/freedesktop.org.xml.in:5767
 msgid "Compressed Tracker audio"
@@ -2265,55 +2266,55 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:5774
 msgid "AAC audio"
-msgstr ""
+msgstr "AAC-ljóð"
 
 #: data/freedesktop.org.xml.in:5787
 msgid "USAC audio"
-msgstr ""
+msgstr "USAC-ljóð"
 
 #: data/freedesktop.org.xml.in:5794
 msgid "MPEG-4 audio"
-msgstr "MPEG-4 ljóður"
+msgstr "MPEG-4-ljóð"
 
 #: data/freedesktop.org.xml.in:5804
 msgid "MPEG-4 ringtone"
-msgstr ""
+msgstr "MPEG-4 ringitóni"
 
 #: data/freedesktop.org.xml.in:5809
 msgid "MPEG-4 video"
-msgstr "MPEG-4 video"
+msgstr "MPEG-4-video"
 
 #: data/freedesktop.org.xml.in:5832
 msgid "MPEG-4 audio book"
-msgstr "MPEG-4 ljóðbók"
+msgstr "MPEG-4-ljóðbók"
 
 #: data/freedesktop.org.xml.in:5841
 msgid "3GPP multimedia file"
-msgstr "3GGP margmiðlafíla"
+msgstr "3GGP-margmiðlafíla"
 
 #: data/freedesktop.org.xml.in:5864
 msgid "3GPP2 multimedia file"
-msgstr "3GGP2 margmiðlafíla"
+msgstr "3GGP2-margmiðlafíla"
 
 #: data/freedesktop.org.xml.in:5876
 msgid "Amiga SoundTracker audio"
-msgstr "Amiga SoundTracker ljóður"
+msgstr "Amiga SoundTracker ljóð"
 
 #: data/freedesktop.org.xml.in:5894
 msgid "OctaMED audio"
-msgstr ""
+msgstr "OctaMED ljóð"
 
 #: data/freedesktop.org.xml.in:5904
 msgid "Composer 669 audio"
-msgstr ""
+msgstr "Composer 669 ljóð"
 
 #: data/freedesktop.org.xml.in:5958
 msgid "MultiTracker audio"
-msgstr ""
+msgstr "MultiTracker ljóð"
 
 #: data/freedesktop.org.xml.in:5966
 msgid "UltraTracker audio"
-msgstr ""
+msgstr "UltraTracker ljóð"
 
 #: data/freedesktop.org.xml.in:5974
 msgid "Dynamic Studio module audio"
@@ -2321,11 +2322,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:5986
 msgid "MP2 audio"
-msgstr "MP2 ljóður"
+msgstr "MP2-ljóð"
 
 #: data/freedesktop.org.xml.in:5991
 msgid "MP3 audio"
-msgstr "MP3 ljóður"
+msgstr "MP3-ljóð"
 
 #: data/freedesktop.org.xml.in:6009 data/freedesktop.org.xml.in:6024
 msgid "Media playlist"
@@ -2337,11 +2338,11 @@ msgstr "Microsoft ASX avspælingarlisti"
 
 #: data/freedesktop.org.xml.in:6053
 msgid "PSF audio"
-msgstr "PSF ljóður"
+msgstr "PSF-ljóð"
 
 #: data/freedesktop.org.xml.in:6062
 msgid "MiniPSF audio"
-msgstr "MiniPSF ljóður"
+msgstr "MiniPSF ljóð"
 
 #: data/freedesktop.org.xml.in:6069
 msgid "PSFlib audio library"
@@ -2349,11 +2350,11 @@ msgstr "PSFlib ljóðsavn"
 
 #: data/freedesktop.org.xml.in:6076
 msgid "Windows Media audio"
-msgstr "Windows Media ljóður"
+msgstr "Windows Media ljóð"
 
 #: data/freedesktop.org.xml.in:6082
 msgid "Musepack audio"
-msgstr "Musepack ljóður"
+msgstr "Musepack ljóð"
 
 #: data/freedesktop.org.xml.in:6092
 msgid "RealAudio document"
@@ -2361,7 +2362,7 @@ msgstr "RealAudio skjal"
 
 #: data/freedesktop.org.xml.in:6099
 msgid "RealMedia playlist"
-msgstr ""
+msgstr "RealMedia spælilisti"
 
 #: data/freedesktop.org.xml.in:6103
 msgid "RealVideo document"
@@ -2385,7 +2386,7 @@ msgstr "RealText skjal"
 
 #: data/freedesktop.org.xml.in:6143
 msgid "RIFF audio"
-msgstr "RIFF ljóð"
+msgstr "RIFF-ljóð"
 
 #: data/freedesktop.org.xml.in:6146
 msgid "RIFF container"
@@ -2393,7 +2394,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:6153
 msgid "Scream Tracker 3 audio"
-msgstr "Scream Tracker 3 ljóður"
+msgstr "Scream Tracker 3 ljóð"
 
 #: data/freedesktop.org.xml.in:6160
 msgid "MP3 ShoutCast playlist"
@@ -2401,35 +2402,35 @@ msgstr "MP3 ShoutCast avspælingarlisti"
 
 #: data/freedesktop.org.xml.in:6171
 msgid "Scream Tracker audio"
-msgstr "Scream Tracker ljóður"
+msgstr "Scream Tracker ljóð"
 
 #: data/freedesktop.org.xml.in:6180
 msgid "VOC audio"
-msgstr "VOC ljóður"
+msgstr "VOC-ljóð"
 
 #: data/freedesktop.org.xml.in:6184
 msgid "WAV audio"
-msgstr "WAV ljóður"
+msgstr "WAV-ljóð"
 
 #: data/freedesktop.org.xml.in:6195
 msgid "FastTracker II instrument"
-msgstr ""
+msgstr "FastTracker II ljóðføri"
 
 #: data/freedesktop.org.xml.in:6202
 msgid "FastTracker II audio"
-msgstr "FastTracker II ljóður"
+msgstr "FastTracker II ljóð"
 
 #: data/freedesktop.org.xml.in:6209
 msgid "TrueAudio audio"
-msgstr "TrueAudio ljóður"
+msgstr "TrueAudio ljóð"
 
 #: data/freedesktop.org.xml.in:6217
 msgid "Windows BMP image"
-msgstr "Windows BMP mynd"
+msgstr "Windows BMP-mynd"
 
 #: data/freedesktop.org.xml.in:6232
 msgid "WBMP image"
-msgstr "WBMP mynd"
+msgstr "WBMP-mynd"
 
 #: data/freedesktop.org.xml.in:6238
 msgid "CGM image"
@@ -2441,11 +2442,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:6251
 msgid "GIF image"
-msgstr "GIF mynd"
+msgstr "GIF-mynd"
 
 #: data/freedesktop.org.xml.in:6260
 msgid "HEIF image"
-msgstr ""
+msgstr "HEIF-mynd"
 
 #: data/freedesktop.org.xml.in:6279
 msgid "JPEG 2000 image encapsulated in HEIF"
@@ -2457,11 +2458,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:6293
 msgid "IEF image"
-msgstr "IEF mynd"
+msgstr "IEF-mynd"
 
 #: data/freedesktop.org.xml.in:6297
 msgid "JPEG image"
-msgstr "JPEG mynd"
+msgstr "JPEG-mynd"
 
 #: data/freedesktop.org.xml.in:6311
 msgid "MJPEG video stream"
@@ -2505,7 +2506,7 @@ msgstr "X11 vísi"
 
 #: data/freedesktop.org.xml.in:6405
 msgid "EXR image"
-msgstr "EXR mynd"
+msgstr "EXR-mynd"
 
 #: data/freedesktop.org.xml.in:6412
 msgid "Macintosh Quickdraw/PICT drawing"
@@ -2629,11 +2630,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:6681
 msgid "BroadBand eBook"
-msgstr ""
+msgstr "BroadBand-ravbók"
 
 #: data/freedesktop.org.xml.in:6689
 msgid "PNG image"
-msgstr "PNG mynd"
+msgstr "PNG-mynd"
 
 #: data/freedesktop.org.xml.in:6698
 msgid "Animated PNG image"
@@ -2645,15 +2646,15 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:6718
 msgid "SVG image"
-msgstr "SVG mynd"
+msgstr "SVG-mynd"
 
 #: data/freedesktop.org.xml.in:6734
 msgid "Compressed SVG image"
-msgstr ""
+msgstr "Stappað SVG-mynd"
 
 #: data/freedesktop.org.xml.in:6742
 msgid "TIFF image"
-msgstr "TIFF mynd"
+msgstr "TIFF-mynd"
 
 #: data/freedesktop.org.xml.in:6753
 msgid "Multi-page TIFF image"
@@ -2669,15 +2670,15 @@ msgstr "DXF vektormynd"
 
 #: data/freedesktop.org.xml.in:6771
 msgid "MDI image"
-msgstr ""
+msgstr "MDI-mynd"
 
 #: data/freedesktop.org.xml.in:6780
 msgid "JPEG XR image"
-msgstr ""
+msgstr "JPEG XR-mynd"
 
 #: data/freedesktop.org.xml.in:6792
 msgid "WebP image"
-msgstr ""
+msgstr "WebP-mynd"
 
 #: data/freedesktop.org.xml.in:6801
 msgid "3D Studio image"
@@ -2689,7 +2690,7 @@ msgstr "Applix Graphics mynd"
 
 #: data/freedesktop.org.xml.in:6817
 msgid "EPS image (bzip2-compressed)"
-msgstr ""
+msgstr "EPS-mynd (bzip2-stappað)"
 
 #: data/freedesktop.org.xml.in:6824
 msgid "CMU raster image"
@@ -2697,7 +2698,7 @@ msgstr "CMU raster mynd"
 
 #: data/freedesktop.org.xml.in:6828
 msgid "Compressed GIMP image"
-msgstr ""
+msgstr "Stappað GIMP-mynd"
 
 #: data/freedesktop.org.xml.in:6833
 msgid "DICOM image"
@@ -2717,31 +2718,31 @@ msgstr "DjVu mynd"
 
 #: data/freedesktop.org.xml.in:6882
 msgid "DjVu document"
-msgstr ""
+msgstr "DjVu skjal"
 
 #: data/freedesktop.org.xml.in:6897
 msgid "DPX image"
-msgstr "DPX mynd"
+msgstr "DPX-mynd"
 
 #: data/freedesktop.org.xml.in:6905
 msgid "EPS image"
-msgstr "EPS mynd"
+msgstr "EPS-mynd"
 
 #: data/freedesktop.org.xml.in:6923
 msgid "FITS document"
-msgstr "FITS skjal"
+msgstr "FITS-skjal"
 
 #: data/freedesktop.org.xml.in:6936
 msgid "FlashPix image"
-msgstr ""
+msgstr "FlashPix mynd"
 
 #: data/freedesktop.org.xml.in:6947
 msgid "EPS image (gzip-compressed)"
-msgstr "EPS mynd (gzip-stappað)"
+msgstr "EPS-mynd (gzip-stappað)"
 
 #: data/freedesktop.org.xml.in:6954
 msgid "Windows icon"
-msgstr ""
+msgstr "Windows ímynd"
 
 #: data/freedesktop.org.xml.in:6969
 msgid "MacOS X icon"
@@ -2749,11 +2750,11 @@ msgstr "MacOS X ímynd"
 
 #: data/freedesktop.org.xml.in:6976
 msgid "ILBM image"
-msgstr "ILBM mynd"
+msgstr "ILBM-mynd"
 
 #: data/freedesktop.org.xml.in:6990
 msgid "JNG image"
-msgstr "JNG mynd"
+msgstr "JNG-mynd"
 
 #: data/freedesktop.org.xml.in:6996
 msgid "LightWave object"
@@ -2773,31 +2774,31 @@ msgstr "Office tekning"
 
 #: data/freedesktop.org.xml.in:7013
 msgid "NIFF image"
-msgstr "NIFF mynd"
+msgstr "NIFF-mynd"
 
 #: data/freedesktop.org.xml.in:7021
 msgid "PCX image"
-msgstr "PCX mynd"
+msgstr "PCX-mynd"
 
 #: data/freedesktop.org.xml.in:7036
 msgid "PCD image"
-msgstr "PCD mynd"
+msgstr "PCD-mynd"
 
 #: data/freedesktop.org.xml.in:7043
 msgid "PNM image"
-msgstr "PNM mynd"
+msgstr "PNM-mynd"
 
 #: data/freedesktop.org.xml.in:7049
 msgid "PBM image"
-msgstr "PBM mynd"
+msgstr "PBM-mynd"
 
 #: data/freedesktop.org.xml.in:7070
 msgid "PGM image"
-msgstr "PGM mynd"
+msgstr "PGM-mynd"
 
 #: data/freedesktop.org.xml.in:7091
 msgid "PPM image"
-msgstr "PPM mynd"
+msgstr "PPM-mynd"
 
 #: data/freedesktop.org.xml.in:7112
 msgid "Photoshop image"
@@ -2805,11 +2806,11 @@ msgstr "Photoshop mynd"
 
 #: data/freedesktop.org.xml.in:7125
 msgid "RGB image"
-msgstr "RGB mynd"
+msgstr "RGB-mynd"
 
 #: data/freedesktop.org.xml.in:7129
 msgid "SGI image"
-msgstr "SGI mynd"
+msgstr "SGI-mynd"
 
 #: data/freedesktop.org.xml.in:7133
 msgid "Sun raster image"
@@ -2817,7 +2818,7 @@ msgstr "Sun raster mynd"
 
 #: data/freedesktop.org.xml.in:7140
 msgid "TGA image"
-msgstr "TGA mynd"
+msgstr "TGA-mynd"
 
 #: data/freedesktop.org.xml.in:7172
 msgid "Windows cursor"
@@ -2825,27 +2826,27 @@ msgstr "Windows vísi"
 
 #: data/freedesktop.org.xml.in:7181
 msgid "Windows animated cursor"
-msgstr "Windows livindaigjørdur vísi"
+msgstr "Windows livandigjørdur vísi"
 
 #: data/freedesktop.org.xml.in:7190
 msgid "EMF image"
-msgstr "EMF mynd"
+msgstr "EMF-mynd"
 
 #: data/freedesktop.org.xml.in:7208
 msgid "WMF image"
-msgstr "WMF mynd"
+msgstr "WMF-mynd"
 
 #: data/freedesktop.org.xml.in:7232
 msgid "XBM image"
-msgstr "XBM mynd"
+msgstr "XBM-mynd"
 
 #: data/freedesktop.org.xml.in:7238
 msgid "GIMP image"
-msgstr "GIMP mynd"
+msgstr "GIMP-mynd"
 
 #: data/freedesktop.org.xml.in:7246
 msgid "GIMP brush"
-msgstr ""
+msgstr "GIMP pensil"
 
 #: data/freedesktop.org.xml.in:7253
 msgid "GIMP brush pipe"
@@ -2857,11 +2858,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:7264
 msgid "XFig image"
-msgstr "XFig mynd"
+msgstr "XFig-mynd"
 
 #: data/freedesktop.org.xml.in:7271
 msgid "XPM image"
-msgstr "XPM mynd"
+msgstr "XPM-mynd"
 
 #: data/freedesktop.org.xml.in:7282
 msgid "X window image"
@@ -2881,7 +2882,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:7302
 msgid "Folder"
-msgstr ""
+msgstr "Skjátta"
 
 #: data/freedesktop.org.xml.in:7307
 msgid "Pipe"
@@ -2893,7 +2894,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:7314
 msgid "Socket"
-msgstr ""
+msgstr "Sokkul"
 
 #: data/freedesktop.org.xml.in:7317
 msgid "Symbolic link"
@@ -2921,15 +2922,15 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:7349
 msgid "Email message"
-msgstr ""
+msgstr "Teldubræv"
 
 #: data/freedesktop.org.xml.in:7369
 msgid "GNU mail message"
-msgstr "GNU mail boð"
+msgstr "GNU teldubræv"
 
 #: data/freedesktop.org.xml.in:7374
 msgid "IGES document"
-msgstr ""
+msgstr "IGES-skjal"
 
 #: data/freedesktop.org.xml.in:7387 data/freedesktop.org.xml.in:7397
 msgid "glTF model"
@@ -2961,7 +2962,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:7448
 msgid "Encrypted message"
-msgstr ""
+msgstr "Bronglað boð"
 
 #: data/freedesktop.org.xml.in:7451
 msgid "Compound documents"
@@ -2985,7 +2986,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:7466
 msgid "VCS/ICS calendar"
-msgstr "VCS/ICS kalendari"
+msgstr "VCS/ICS-kalendari"
 
 #: data/freedesktop.org.xml.in:7483
 msgid "CSS stylesheet"
@@ -2993,19 +2994,19 @@ msgstr "CSS sniðark"
 
 #: data/freedesktop.org.xml.in:7490
 msgid "SPDX document"
-msgstr ""
+msgstr "SPDX skjal"
 
 #: data/freedesktop.org.xml.in:7500
 msgid "Electronic business card"
-msgstr ""
+msgstr "Talgilt visittkort"
 
 #: data/freedesktop.org.xml.in:7514
 msgid "Notation3 document"
-msgstr ""
+msgstr "Notation3 skjal"
 
 #: data/freedesktop.org.xml.in:7519
 msgid "Turtle document"
-msgstr ""
+msgstr "Turtle skjal"
 
 #: data/freedesktop.org.xml.in:7524
 msgid "txt2tags document"
@@ -3013,7 +3014,7 @@ msgstr "txt2tags skjal"
 
 #: data/freedesktop.org.xml.in:7533
 msgid "Verilog source code"
-msgstr ""
+msgstr "Verilog keldukota"
 
 #: data/freedesktop.org.xml.in:7543
 msgid "SystemVerilog header"
@@ -3021,11 +3022,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:7548
 msgid "SystemVerilog source code"
-msgstr ""
+msgstr "SystemVerilog keldukota"
 
 #: data/freedesktop.org.xml.in:7553
 msgid "VHDL source code"
-msgstr ""
+msgstr "VHDL-keldukota"
 
 #: data/freedesktop.org.xml.in:7561
 msgid "Enriched text document"
@@ -3037,7 +3038,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:7575
 msgid "RDF file"
-msgstr "RDF fíla"
+msgstr "RDF-fíla"
 
 #: data/freedesktop.org.xml.in:7586
 msgid "ReStructuredText document"
@@ -3045,7 +3046,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:7591
 msgid "OWL XML file"
-msgstr ""
+msgstr "OWL XML-fíla"
 
 #: data/freedesktop.org.xml.in:7602
 msgid "Email headers"
@@ -3057,7 +3058,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:7611
 msgid "RSS summary"
-msgstr "RSS samandráttur"
+msgstr "RSS-samandráttur"
 
 #: data/freedesktop.org.xml.in:7624
 msgid "Atom syndication feed"
@@ -3069,7 +3070,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:7646
 msgid "SGML document"
-msgstr "SGML skjal"
+msgstr "SGML-skjal"
 
 #: data/freedesktop.org.xml.in:7654
 msgid "Spreadsheet interchange document"
@@ -3077,7 +3078,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:7665
 msgid "TSV document"
-msgstr "TSV skjal"
+msgstr "TSV-skjal"
 
 #: data/freedesktop.org.xml.in:7673
 msgid "Graphviz DOT graph"
@@ -3085,11 +3086,11 @@ msgstr "Graphviz DOT ritmynd"
 
 #: data/freedesktop.org.xml.in:7686
 msgid "JAD document"
-msgstr "JAD skjal"
+msgstr "JAD-skjal"
 
 #: data/freedesktop.org.xml.in:7696
 msgid "WML document"
-msgstr "WML skjal"
+msgstr "WML-skjal"
 
 #: data/freedesktop.org.xml.in:7703
 msgid "WMLScript program"
@@ -3097,11 +3098,11 @@ msgstr "WMLScript forrit"
 
 #: data/freedesktop.org.xml.in:7708
 msgid "WarpScript source code"
-msgstr ""
+msgstr "WarpScript keldukota"
 
 #: data/freedesktop.org.xml.in:7718
 msgid "ACE archive"
-msgstr "ACE skjalasavn"
+msgstr "ACE-skjalasavn"
 
 #: data/freedesktop.org.xml.in:7726
 msgid "Ada source code"
@@ -3109,7 +3110,7 @@ msgstr "Ada keldukota"
 
 #: data/freedesktop.org.xml.in:7732
 msgid "Author list"
-msgstr ""
+msgstr "Høvundalisti"
 
 #: data/freedesktop.org.xml.in:7737
 msgid "BibTeX document"
@@ -3117,11 +3118,11 @@ msgstr "BibTeX skjal"
 
 #: data/freedesktop.org.xml.in:7745
 msgid "Blueprint source code"
-msgstr ""
+msgstr "Blueprint keldukota"
 
 #: data/freedesktop.org.xml.in:7755
 msgid "C++ header"
-msgstr "C++ tekshøvd"
+msgstr "C++ høvd"
 
 #: data/freedesktop.org.xml.in:7764
 msgid "C++ source code"
@@ -3133,7 +3134,7 @@ msgstr "ChangeLog skjal"
 
 #: data/freedesktop.org.xml.in:7778
 msgid "C header"
-msgstr "C tekshøvd"
+msgstr "C høvd"
 
 #: data/freedesktop.org.xml.in:7783
 msgid "CMake source code"
@@ -3145,7 +3146,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:7797
 msgid "CSV document"
-msgstr "CSV skjal"
+msgstr "CSV-skjal"
 
 #: data/freedesktop.org.xml.in:7807
 msgid "CSV Schema document"
@@ -3181,11 +3182,11 @@ msgstr "Vala keldukota"
 
 #: data/freedesktop.org.xml.in:7895
 msgid "OOC source code"
-msgstr ""
+msgstr "OOC-keldukota"
 
 #: data/freedesktop.org.xml.in:7906
 msgid "DCL script"
-msgstr "DCL boðrøð"
+msgstr "DCL skeljarrit"
 
 #: data/freedesktop.org.xml.in:7913
 msgid "DSSSL document"
@@ -3197,7 +3198,7 @@ msgstr "D keldukota"
 
 #: data/freedesktop.org.xml.in:7934
 msgid "DTD file"
-msgstr "DTD fíla"
+msgstr "DTD-fíla"
 
 #: data/freedesktop.org.xml.in:7943
 msgid "Eiffel source code"
@@ -3209,7 +3210,7 @@ msgstr "Emacs Lisp keldukota"
 
 #: data/freedesktop.org.xml.in:7961
 msgid "Elixir source code"
-msgstr ""
+msgstr "Elixir keldukota"
 
 #: data/freedesktop.org.xml.in:7970
 msgid "Erlang source code"
@@ -3221,11 +3222,11 @@ msgstr "Fortran keldukota"
 
 #: data/freedesktop.org.xml.in:7983
 msgid "Genie source code"
-msgstr ""
+msgstr "Genie keldukota"
 
 #: data/freedesktop.org.xml.in:7999
 msgid "Translation file"
-msgstr ""
+msgstr "Týðingarfíla"
 
 #: data/freedesktop.org.xml.in:8006
 msgid "Translation template"
@@ -3233,11 +3234,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:8015
 msgid "Gherkin document"
-msgstr ""
+msgstr "Gherkin skjal"
 
 #: data/freedesktop.org.xml.in:8020
 msgid "HTML document"
-msgstr "HTML skjal"
+msgstr "HTML-skjal"
 
 #: data/freedesktop.org.xml.in:8049
 msgid "Windows HTML desktop application"
@@ -3261,11 +3262,11 @@ msgstr "Haskell keldukota"
 
 #: data/freedesktop.org.xml.in:8098
 msgid "IDL document"
-msgstr "IDL skjal"
+msgstr "IDL-skjal"
 
 #: data/freedesktop.org.xml.in:8105
 msgid "Installation instructions"
-msgstr ""
+msgstr "Innleggingarvegleingar"
 
 #: data/freedesktop.org.xml.in:8110
 msgid "Java source code"
@@ -3281,7 +3282,7 @@ msgstr "Lilypond tónleika ark"
 
 #: data/freedesktop.org.xml.in:8140
 msgid "LHS source code"
-msgstr "LHS keld"
+msgstr "LHS-keldukota"
 
 #: data/freedesktop.org.xml.in:8147
 msgid "Application log"
@@ -3293,7 +3294,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:8165
 msgid "Markdown document"
-msgstr ""
+msgstr "Markdown skjal"
 
 #: data/freedesktop.org.xml.in:8174
 msgid "Qt MOC file"
@@ -3305,7 +3306,7 @@ msgstr "Windows Registry úrdráttur"
 
 #: data/freedesktop.org.xml.in:8191
 msgid "Visual Studio Project"
-msgstr ""
+msgstr "Visual Studio verkætlan"
 
 #: data/freedesktop.org.xml.in:8199
 msgid "Visual Studio Workspace"
@@ -3313,7 +3314,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:8207
 msgid "MOF file"
-msgstr ""
+msgstr "MOF-fíla"
 
 #: data/freedesktop.org.xml.in:8214
 msgid "Mup musical composition document"
@@ -3321,7 +3322,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:8223
 msgid "Nix source code"
-msgstr ""
+msgstr "Nix keldukota"
 
 #: data/freedesktop.org.xml.in:8228
 msgid "Objective-C source code"
@@ -3329,7 +3330,7 @@ msgstr "Objective-C keldukota"
 
 #: data/freedesktop.org.xml.in:8233
 msgid "Objective-C++ source code"
-msgstr ""
+msgstr "Objective-C++ keldukota"
 
 #: data/freedesktop.org.xml.in:8249
 msgid "OCaml source code"
@@ -3337,7 +3338,7 @@ msgstr "OCaml keldukota"
 
 #: data/freedesktop.org.xml.in:8262
 msgid "OpenCL C source code"
-msgstr ""
+msgstr "OpenCL C keldukota"
 
 #: data/freedesktop.org.xml.in:8276
 msgid "C++ for OpenCL source code"
@@ -3345,11 +3346,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:8283
 msgid "MATLAB file"
-msgstr ""
+msgstr "MATLAB-fíla"
 
 #: data/freedesktop.org.xml.in:8293
 msgid "Meson source code"
-msgstr ""
+msgstr "Meson keldukota"
 
 #: data/freedesktop.org.xml.in:8300
 msgid "Modelica model"
@@ -3365,19 +3366,19 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:8337
 msgid "Dart source code"
-msgstr ""
+msgstr "Dart keldukota"
 
 #: data/freedesktop.org.xml.in:8349
 msgid "Nim source code"
-msgstr ""
+msgstr "Nim keldukota"
 
 #: data/freedesktop.org.xml.in:8358
 msgid "Nimscript source code"
-msgstr ""
+msgstr "Nimscript keldukota"
 
 #: data/freedesktop.org.xml.in:8364
 msgid "Go source code"
-msgstr ""
+msgstr "Go keldukota"
 
 #: data/freedesktop.org.xml.in:8377
 msgid "SCons configuration file"
@@ -3385,19 +3386,19 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:8384
 msgid "Python 3 script"
-msgstr ""
+msgstr "Python 3 skeljarrit"
 
 #: data/freedesktop.org.xml.in:8403
 msgid "Python 2 script"
-msgstr ""
+msgstr "Python 2 skeljarrit"
 
 #: data/freedesktop.org.xml.in:8421
 msgid "Python script"
-msgstr "Python boðrøð"
+msgstr "Python skeljarrit"
 
 #: data/freedesktop.org.xml.in:8440
 msgid "Cython source code"
-msgstr ""
+msgstr "Cython keldukota"
 
 #: data/freedesktop.org.xml.in:8453
 msgid "SageMath script"
@@ -3405,7 +3406,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:8458
 msgid "Lua script"
-msgstr "Lua boðrøð"
+msgstr "Lua skeljarrit"
 
 #: data/freedesktop.org.xml.in:8473
 msgid "Git bundle"
@@ -3421,11 +3422,11 @@ msgstr "NFO skjal"
 
 #: data/freedesktop.org.xml.in:8494
 msgid "Todo.txt file"
-msgstr ""
+msgstr "Todo.txt fíla"
 
 #: data/freedesktop.org.xml.in:8503
 msgid "RPM spec file"
-msgstr "RPM tøknilýsingarfíla"
+msgstr "RPM-tøknilýsingarfíla"
 
 #: data/freedesktop.org.xml.in:8514
 msgid "Sass CSS pre-processor file"
@@ -3433,7 +3434,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:8522
 msgid "Scala source code"
-msgstr ""
+msgstr "Scala keldukota"
 
 #: data/freedesktop.org.xml.in:8534
 msgid "Scheme source code"
@@ -3449,11 +3450,11 @@ msgstr "Setext skjal"
 
 #: data/freedesktop.org.xml.in:8553
 msgid "SQL code"
-msgstr "SQL kota"
+msgstr "SQL-kota"
 
 #: data/freedesktop.org.xml.in:8559
 msgid "Tcl script"
-msgstr "Tcl boðrøð"
+msgstr "Tcl skeljarrit"
 
 #: data/freedesktop.org.xml.in:8566
 msgid "TeX document"
@@ -3465,7 +3466,7 @@ msgstr "TeXInfo skjal"
 
 #: data/freedesktop.org.xml.in:8591
 msgid "Typst document"
-msgstr ""
+msgstr "Typst skjal"
 
 #: data/freedesktop.org.xml.in:8597
 msgid "Troff ME input document"
@@ -3501,7 +3502,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:8643
 msgid "Visual Basic .NET source code"
-msgstr ""
+msgstr "Visual Basic .NET keldukota"
 
 #: data/freedesktop.org.xml.in:8653
 msgid "VBScript program"
@@ -3513,7 +3514,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:8670
 msgid "XMI file"
-msgstr "XMI fíla"
+msgstr "XMI-fíla"
 
 #: data/freedesktop.org.xml.in:8679
 msgid "XSL FO file"
@@ -3541,11 +3542,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:8786
 msgid "XMCD CD database"
-msgstr "XMCD fløgu dátustovnur"
+msgstr "XMCD fløgu dátugrunnur"
 
 #: data/freedesktop.org.xml.in:8793
 msgid "XML document"
-msgstr "XML skjal"
+msgstr "XML-skjal"
 
 #: data/freedesktop.org.xml.in:8808
 msgid "XML entities document"
@@ -3561,11 +3562,11 @@ msgstr "ISI video"
 
 #: data/freedesktop.org.xml.in:8829
 msgid "MPEG-2 transport stream"
-msgstr "MPEG-2 flutningsstreymur"
+msgstr "MPEG-2-flutningsstroymur"
 
 #: data/freedesktop.org.xml.in:8864
 msgid "MPEG video"
-msgstr "MPEG video"
+msgstr "MPEG-video"
 
 #: data/freedesktop.org.xml.in:8884
 msgid "Video playlist"
@@ -3597,19 +3598,19 @@ msgstr "Wavelet video"
 
 #: data/freedesktop.org.xml.in:8956
 msgid "ANIM animation"
-msgstr "ANIM teknmyndagerð"
+msgstr "ANIM-teknmyndagerð"
 
 #: data/freedesktop.org.xml.in:8960
 msgid "FLIC animation"
-msgstr "FLIC teknimyndagerð"
+msgstr "FLIC-teknimyndagerð"
 
 #: data/freedesktop.org.xml.in:8977
 msgid "Aseprite image"
-msgstr ""
+msgstr "Aseprite mynd"
 
 #: data/freedesktop.org.xml.in:8992
 msgid "Hancom HWP document"
-msgstr ""
+msgstr "Hancom HWP skjal"
 
 #: data/freedesktop.org.xml.in:9001
 msgid "Hancom HWP document template"
@@ -3617,15 +3618,15 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:9007
 msgid "Hancom HWPX document"
-msgstr ""
+msgstr "Hancom HWPX skjal"
 
 #: data/freedesktop.org.xml.in:9023
 msgid "MNG animation"
-msgstr "MNG teknimyndagerð"
+msgstr "MNG-teknimyndagerð"
 
 #: data/freedesktop.org.xml.in:9032
 msgid "ASF video"
-msgstr "ASF video"
+msgstr "ASF-video"
 
 #: data/freedesktop.org.xml.in:9046
 msgid "Windows Media Station file"
@@ -3637,7 +3638,7 @@ msgstr "Windows Media video"
 
 #: data/freedesktop.org.xml.in:9060
 msgid "AVI video"
-msgstr "AVI video"
+msgstr "AVI-video"
 
 #: data/freedesktop.org.xml.in:9082
 msgid "NullSoft video"
@@ -3649,7 +3650,7 @@ msgstr "SDP margvarpað streymafíla"
 
 #: data/freedesktop.org.xml.in:9104
 msgid "SGI video"
-msgstr "SGI video"
+msgstr "SGI-video"
 
 #: data/freedesktop.org.xml.in:9111
 msgid "eMusic download package"
@@ -3677,7 +3678,7 @@ msgstr "Citrix ICA stillingarfíla"
 
 #: data/freedesktop.org.xml.in:9161
 msgid "XUL interface document"
-msgstr "XUL markamótsskjal"
+msgstr "XUL-markamótsskjal"
 
 #: data/freedesktop.org.xml.in:9170
 msgid "XPInstall installer module"
@@ -3689,7 +3690,7 @@ msgstr "Word 2007 skjal"
 
 #: data/freedesktop.org.xml.in:9181
 msgid "Word 2007 document template"
-msgstr ""
+msgstr "Word 2007 skjalformur"
 
 #: data/freedesktop.org.xml.in:9187
 msgid "PowerPoint 2007 presentation"
@@ -3697,7 +3698,7 @@ msgstr "PowerPoint 2007 framløga"
 
 #: data/freedesktop.org.xml.in:9193
 msgid "PowerPoint 2007 slide"
-msgstr ""
+msgstr "PowerPoint 2007 framløgumynd"
 
 #: data/freedesktop.org.xml.in:9199
 msgid "PowerPoint 2007 show"
@@ -3705,7 +3706,7 @@ msgstr "PowerPoint 2007 framsýning"
 
 #: data/freedesktop.org.xml.in:9205
 msgid "PowerPoint 2007 presentation template"
-msgstr ""
+msgstr "PowerPoint 2007 framløguformur"
 
 #: data/freedesktop.org.xml.in:9211
 msgid "Excel 2007 spreadsheet"
@@ -3713,11 +3714,11 @@ msgstr "Excel 2007 rokniark"
 
 #: data/freedesktop.org.xml.in:9217
 msgid "Excel 2007 spreadsheet template"
-msgstr ""
+msgstr "Excel 2007 rokniarksformur"
 
 #: data/freedesktop.org.xml.in:9223
 msgid "Microsoft Office 2007 theme"
-msgstr ""
+msgstr "Microsoft Office 2007 tema"
 
 #: data/freedesktop.org.xml.in:9229
 msgid "T602 document"
@@ -3725,7 +3726,7 @@ msgstr "T602 skjal"
 
 #: data/freedesktop.org.xml.in:9239
 msgid "Cisco VPN settings"
-msgstr ""
+msgstr "Cisco VPN stillingar"
 
 #: data/freedesktop.org.xml.in:9250
 msgid "ICC profile"
@@ -3741,7 +3742,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:9278
 msgid "WinHelp help file"
-msgstr ""
+msgstr "WinHelp-hjálpifíla"
 
 #: data/freedesktop.org.xml.in:9286
 msgid "Binary differences between files"
@@ -3750,7 +3751,7 @@ msgstr ""
 #. http://en.wikipedia.org/wiki/Design_rule_for_Camera_File_system
 #: data/freedesktop.org.xml.in:9297
 msgid "Digital photos"
-msgstr ""
+msgstr "Talgildar myndir"
 
 #. TRANSLATORS: This is a brand-name, not a generic term. Please see
 #. http://en.wikipedia.org/wiki/Video_CD
@@ -3799,7 +3800,7 @@ msgstr ""
 #. http://en.wikipedia.org/wiki/DVD-Audio
 #: data/freedesktop.org.xml.in:9361
 msgid "Audio DVD"
-msgstr ""
+msgstr "Ljóð DVD"
 
 #. http://en.wikipedia.org/wiki/Blu-ray_Disc
 #. http://www.blu-raydisc.com/Section-13470/Section-13890/Index.html
@@ -3839,7 +3840,7 @@ msgstr ""
 #. http://bugzilla.gnome.org/show_bug.cgi?id=509823#c3
 #: data/freedesktop.org.xml.in:9426
 msgid "Software"
-msgstr ""
+msgstr "Ritbúnaður"
 
 #. http://standards.freedesktop.org/autostart-spec/autostart-spec-latest.html
 #. http://bugzilla.gnome.org/show_bug.cgi?id=509823#c3
@@ -3867,7 +3868,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:9487
 msgid "Apple Pages document"
-msgstr ""
+msgstr "Apple Pages skjal"
 
 #: data/freedesktop.org.xml.in:9500
 msgid "Apple Wallet pass"
@@ -3883,7 +3884,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:9531
 msgid "Doom WAD file"
-msgstr ""
+msgstr "Doom WAD fíla"
 
 #: data/freedesktop.org.xml.in:9543
 msgid "Amiga disk image"
@@ -3907,11 +3908,11 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:9612
 msgid "Snap package"
-msgstr ""
+msgstr "Snap pakki"
 
 #: data/freedesktop.org.xml.in:9619
 msgid "3MF document"
-msgstr ""
+msgstr "3MF-skjal"
 
 #: data/freedesktop.org.xml.in:9629
 msgid "STL 3D model"
@@ -3979,15 +3980,15 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:9795
 msgid "Pyspread spreadsheet"
-msgstr ""
+msgstr "Pyspread rokniark"
 
 #: data/freedesktop.org.xml.in:9803
 msgid "Pyspread spreadsheet (bzip2-compressed)"
-msgstr ""
+msgstr "Pyspread rokniark (bzip2-stappað)"
 
 #: data/freedesktop.org.xml.in:9810
 msgid "Kotlin source code"
-msgstr ""
+msgstr "Kotlin keldukota"
 
 #: data/freedesktop.org.xml.in:9826
 msgid "Devicetree source code"
@@ -3999,7 +4000,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:9864
 msgid "AVIF image"
-msgstr ""
+msgstr "AVIF-mynd"
 
 #: data/freedesktop.org.xml.in:9882
 msgid "Quite OK Image Format"
@@ -4019,7 +4020,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:9929
 msgid "OpenZIM file"
-msgstr ""
+msgstr "OpenZIM fíla"
 
 #: data/freedesktop.org.xml.in:9938
 msgid "SPARQL query"
@@ -4047,7 +4048,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:9982
 msgid "CBOR Data"
-msgstr ""
+msgstr "CBOR dátur"
 
 #: data/freedesktop.org.xml.in:9988
 msgid "ERIS Link"
@@ -4055,7 +4056,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:9998
 msgid "Gerber file"
-msgstr ""
+msgstr "Gerber fíla"
 
 #: data/freedesktop.org.xml.in:10017
 msgid "Gerber job file"
@@ -4087,7 +4088,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:10071
 msgid "PlayStation graphics"
-msgstr ""
+msgstr "PlayStation teknindir"
 
 #: data/freedesktop.org.xml.in:10079
 msgid "Farbfeld"
@@ -4095,7 +4096,7 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:10087
 msgid "NSIS Script"
-msgstr ""
+msgstr "NSIS-skeljarrit"
 
 #: data/freedesktop.org.xml.in:10097
 msgid "AppStream software component"
@@ -4115,15 +4116,15 @@ msgstr ""
 
 #: data/freedesktop.org.xml.in:10130
 msgid "SF3 Archive"
-msgstr ""
+msgstr "SF3 skjalasavn"
 
 #: data/freedesktop.org.xml.in:10140
 msgid "SF3 Audio"
-msgstr ""
+msgstr "SF3 ljóð"
 
 #: data/freedesktop.org.xml.in:10150
 msgid "SF3 Image"
-msgstr ""
+msgstr "SF3 mynd"
 
 #: data/freedesktop.org.xml.in:10160
 msgid "SF3 Log File"

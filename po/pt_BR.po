@@ -589,7 +589,7 @@ msgstr "Arquivo do Apache Parquet"
 
 #: data/freedesktop.org.xml.in:1645
 msgid "Android App Bundle"
-msgstr ""
+msgstr "Bundle de aplicativo Android"
 
 #: data/freedesktop.org.xml.in:1650
 msgid "Android package"
@@ -1829,7 +1829,7 @@ msgstr "Pacote de certificados PKCS#7"
 
 #: data/freedesktop.org.xml.in:4743
 msgid "Windows security catalog"
-msgstr ""
+msgstr "Catálogo de segurança do Windows"
 
 #: data/freedesktop.org.xml.in:4750
 msgid "PKCS#12 certificate bundle"
@@ -2158,7 +2158,7 @@ msgstr "ROM de WonderSwan Color da Bandai"
 
 #: data/freedesktop.org.xml.in:5473
 msgid "X.509 CA certificate"
-msgstr ""
+msgstr "Certificado de CA X.509"
 
 #: data/freedesktop.org.xml.in:5488
 msgid "Empty document"
@@ -3414,7 +3414,7 @@ msgstr "Script Lua"
 
 #: data/freedesktop.org.xml.in:8473
 msgid "Git bundle"
-msgstr ""
+msgstr "Bundle Git"
 
 #: data/freedesktop.org.xml.in:8484
 msgid "README document"
@@ -3614,15 +3614,15 @@ msgstr "Imagem Aseprite"
 
 #: data/freedesktop.org.xml.in:8992
 msgid "Hancom HWP document"
-msgstr ""
+msgstr "Documento Hancom HWP"
 
 #: data/freedesktop.org.xml.in:9001
 msgid "Hancom HWP document template"
-msgstr ""
+msgstr "Modelo de documento Hancom HWP"
 
 #: data/freedesktop.org.xml.in:9007
 msgid "Hancom HWPX document"
-msgstr ""
+msgstr "Documento Hancom HWPX"
 
 #: data/freedesktop.org.xml.in:9023
 msgid "MNG animation"

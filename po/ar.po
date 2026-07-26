@@ -588,7 +588,7 @@ msgstr "ملف Apache Parquet"
 
 #: data/freedesktop.org.xml.in:1645
 msgid "Android App Bundle"
-msgstr ""
+msgstr "حزمة تطبيق أندرويد"
 
 #: data/freedesktop.org.xml.in:1650
 msgid "Android package"
@@ -983,7 +983,7 @@ msgstr "صورة قرص مرن لكومودور 1571"
 
 #: data/freedesktop.org.xml.in:2587
 msgid "Commodore C64 headered disk image"
-msgstr ""
+msgstr "صورة قرص كومودور C64 ذات رأس"
 
 #: data/freedesktop.org.xml.in:2605
 msgid "Commodore 1581 floppy disk image"
@@ -991,15 +991,15 @@ msgstr "صورة قرص مرن لكومودور 1581"
 
 #: data/freedesktop.org.xml.in:2615
 msgid "Commodore 8050 floppy disk image"
-msgstr ""
+msgstr "صورة قرص مرن لكومودور 8050"
 
 #: data/freedesktop.org.xml.in:2625
 msgid "Commodore 8250 floppy disk image"
-msgstr ""
+msgstr "صورة قرص مرن لكومودور 8250"
 
 #: data/freedesktop.org.xml.in:2635
 msgid "Commodore D9090/D9060 hard disk image"
-msgstr ""
+msgstr "صورة قرص صلب لكومودور D9090/D9060"
 
 #: data/freedesktop.org.xml.in:2644
 msgid "Commodore cartridge"
@@ -1019,43 +1019,43 @@ msgstr "لقطة ZX Spectrum SZX"
 
 #: data/freedesktop.org.xml.in:2683
 msgid "ZX Spectrum SLT multiload snapshot"
-msgstr ""
+msgstr "لقطة تحميل متعددة لـ ZX Spectrum SLT"
 
 #: data/freedesktop.org.xml.in:2690
 msgid "ZX Spectrum RZX replay snapshot"
-msgstr ""
+msgstr "لقطة إعادة تشغيل ZX Spectrum RZX"
 
 #: data/freedesktop.org.xml.in:2698
 msgid "ZX Spectrum TZX tape image"
-msgstr ""
+msgstr "صورة شريط ZX Spectrum TZX"
 
 #: data/freedesktop.org.xml.in:2705
 msgid "ZX Spectrum TAP tape image"
-msgstr ""
+msgstr "صورة شريط ZX Spectrum TAP"
 
 #: data/freedesktop.org.xml.in:2715
 msgid "ZX Spectrum PZX tape archival image"
-msgstr ""
+msgstr "صورة أرشيفية لشريط ZX Spectrum PZX"
 
 #: data/freedesktop.org.xml.in:2722
 msgid "Sinclair Microdrive tape cartridge image"
-msgstr ""
+msgstr "صورة خرطوشة شريط محرك الأقراص الدقيقة Sinclair"
 
 #: data/freedesktop.org.xml.in:2727
 msgid "Amstrad CPC/ZX Spectrum DSK floppy disk image"
-msgstr ""
+msgstr "صورة قرص مرن لجهاز Amstrad CPC/ZX Spectrum DSK"
 
 #: data/freedesktop.org.xml.in:2735
 msgid "ZX Spectrum/SAM Coupé MGT floppy disk image"
-msgstr ""
+msgstr "صورة قرص مرن لجهاز ZX Spectrum/SAM Coupé MGT"
 
 #: data/freedesktop.org.xml.in:2749
 msgid "Didaktik D40/D80 floppy disk image"
-msgstr ""
+msgstr "صورة قرص مرن Didaktik D40/D80"
 
 #: data/freedesktop.org.xml.in:2758
 msgid "ZX Spectrum HDF hard disk image"
-msgstr ""
+msgstr "صورة قرص صلب ZX Spectrum HDF"
 
 #: data/freedesktop.org.xml.in:2766
 msgid "CHIP-8 program"
@@ -1075,7 +1075,7 @@ msgstr "خرطوشة TIC-80"
 
 #: data/freedesktop.org.xml.in:2793
 msgid "PICO-8 editable code"
-msgstr ""
+msgstr "كود قابل للتعديل في PICO-8"
 
 #: data/freedesktop.org.xml.in:2804
 msgid "PICO-8 binary code"
@@ -1251,7 +1251,7 @@ msgstr "قاعدة بيانات GDBM"
 #. https://en.wikipedia.org/wiki/Sega_Genesis#History
 #: data/freedesktop.org.xml.in:3222
 msgid "Genesis ROM (SMD dump)"
-msgstr ""
+msgstr "ذاكرة القراءة فقط لـGenesis (نسخة SMD)"
 
 #. Translate "Genesis" to "Mega Drive" if the console was known as
 #. such in your locale. Should be "Mega Drive" in all but en_US,
@@ -1828,7 +1828,7 @@ msgstr "رزمة شهادة PKCS#7"
 
 #: data/freedesktop.org.xml.in:4743
 msgid "Windows security catalog"
-msgstr ""
+msgstr "كتالوج أمان ويندوز"
 
 #: data/freedesktop.org.xml.in:4750
 msgid "PKCS#12 certificate bundle"
@@ -2021,7 +2021,7 @@ msgstr "ترجمات SSA"
 
 #: data/freedesktop.org.xml.in:5196
 msgid "Song lyrics"
-msgstr ""
+msgstr "كلمات أغنية"
 
 #: data/freedesktop.org.xml.in:5207
 msgid "OpenSSH public key"
@@ -2157,7 +2157,7 @@ msgstr "روم لون Bandai WonderSwan"
 
 #: data/freedesktop.org.xml.in:5473
 msgid "X.509 CA certificate"
-msgstr ""
+msgstr "شهادة CA X.509"
 
 #: data/freedesktop.org.xml.in:5488
 msgid "Empty document"
@@ -2501,7 +2501,7 @@ msgstr "صورة OpenRaster"
 
 #: data/freedesktop.org.xml.in:6391
 msgid "DirectDraw Surface"
-msgstr ""
+msgstr "سطح DirectDraw"
 
 #: data/freedesktop.org.xml.in:6399
 msgid "X11 cursor"
@@ -3413,7 +3413,7 @@ msgstr "سكربت Lua"
 
 #: data/freedesktop.org.xml.in:8473
 msgid "Git bundle"
-msgstr ""
+msgstr "حزمة غت"
 
 #: data/freedesktop.org.xml.in:8484
 msgid "README document"
@@ -3613,15 +3613,15 @@ msgstr "صورة Aseprite"
 
 #: data/freedesktop.org.xml.in:8992
 msgid "Hancom HWP document"
-msgstr ""
+msgstr "مستند Hancom HWP"
 
 #: data/freedesktop.org.xml.in:9001
 msgid "Hancom HWP document template"
-msgstr ""
+msgstr "قالب مستند Hancom HWP"
 
 #: data/freedesktop.org.xml.in:9007
 msgid "Hancom HWPX document"
-msgstr ""
+msgstr "مستند Hancom HWPX"
 
 #: data/freedesktop.org.xml.in:9023
 msgid "MNG animation"
@@ -4095,7 +4095,7 @@ msgstr "رسوميات بلايستيشن"
 
 #: data/freedesktop.org.xml.in:10079
 msgid "Farbfeld"
-msgstr ""
+msgstr "صورة Farbfeld"
 
 #: data/freedesktop.org.xml.in:10087
 msgid "NSIS Script"

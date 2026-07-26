@@ -589,7 +589,7 @@ msgstr "Apache Parquet tiedosto"
 
 #: data/freedesktop.org.xml.in:1645
 msgid "Android App Bundle"
-msgstr ""
+msgstr "Android sovelus .aab"
 
 #: data/freedesktop.org.xml.in:1650
 msgid "Android package"
@@ -1829,7 +1829,7 @@ msgstr "PKCS#7-varmennepaketti"
 
 #: data/freedesktop.org.xml.in:4743
 msgid "Windows security catalog"
-msgstr ""
+msgstr "Windows allekirjoitus"
 
 #: data/freedesktop.org.xml.in:4750
 msgid "PKCS#12 certificate bundle"
@@ -2022,7 +2022,7 @@ msgstr "SSA-tekstitykset"
 
 #: data/freedesktop.org.xml.in:5196
 msgid "Song lyrics"
-msgstr ""
+msgstr "Sanoitukset"
 
 #: data/freedesktop.org.xml.in:5207
 msgid "OpenSSH public key"
@@ -2158,7 +2158,7 @@ msgstr "Bandai WonderSwan Color ROM"
 
 #: data/freedesktop.org.xml.in:5473
 msgid "X.509 CA certificate"
-msgstr ""
+msgstr "X.509 CA-sertifikaatti"
 
 #: data/freedesktop.org.xml.in:5488
 msgid "Empty document"
@@ -2502,7 +2502,7 @@ msgstr "OpenRaster-kuva"
 
 #: data/freedesktop.org.xml.in:6391
 msgid "DirectDraw Surface"
-msgstr ""
+msgstr "DirectDraw Surface"
 
 #: data/freedesktop.org.xml.in:6399
 msgid "X11 cursor"
@@ -3414,7 +3414,7 @@ msgstr "Lua-skripti"
 
 #: data/freedesktop.org.xml.in:8473
 msgid "Git bundle"
-msgstr ""
+msgstr "Git bundle"
 
 #: data/freedesktop.org.xml.in:8484
 msgid "README document"
@@ -3614,15 +3614,15 @@ msgstr "Aseprite sprite-kuva"
 
 #: data/freedesktop.org.xml.in:8992
 msgid "Hancom HWP document"
-msgstr ""
+msgstr "Hancom HWP"
 
 #: data/freedesktop.org.xml.in:9001
 msgid "Hancom HWP document template"
-msgstr ""
+msgstr "Hancom HWP-asiakirjamalli"
 
 #: data/freedesktop.org.xml.in:9007
 msgid "Hancom HWPX document"
-msgstr ""
+msgstr "Hancom HWPX"
 
 #: data/freedesktop.org.xml.in:9023
 msgid "MNG animation"
@@ -4096,7 +4096,7 @@ msgstr "PlayStation grafiikka"
 
 #: data/freedesktop.org.xml.in:10079
 msgid "Farbfeld"
-msgstr ""
+msgstr "Farbfeld"
 
 #: data/freedesktop.org.xml.in:10087
 msgid "NSIS Script"

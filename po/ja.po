@@ -7,7 +7,7 @@
 # Makoto Sakaguchi <ycco34vx@gmail.com>, 2025
 # Nobuhiro Iwamatsu <iwamatsu@nigauri.org>, 2022-2023
 # OKANO Takayoshi <kano@na.rim.or.jp>, 2013
-# Takuro Onoue <kusanaginoturugi@gmail.com>, 2021
+# Takuro Onoue <kusanaginoturugi@gmail.com>, 2021,2026
 # e93ed3aa97dec2eb31063731872555fc_1460a05 <71305a0095156d8e18373a5b7cfeb79e_8587>, 2011-2013
 # YOSHIDUMI, Rentaro, 2023
 msgid ""
@@ -16,7 +16,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-25 20:26+0200\n"
 "PO-Revision-Date: 2010-11-30 12:22+0000\n"
-"Last-Translator: Makoto Sakaguchi <ycco34vx@gmail.com>, 2025\n"
+"Last-Translator: Takuro Onoue <kusanaginoturugi@gmail.com>, 2021,2026\n"
 "Language-Team: Japanese (http://app.transifex.com/freedesktop/shared-mime-info/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -694,7 +694,7 @@ msgstr "ASP ページ"
 #. Wikipedia's usage for your language.
 #: data/freedesktop.org.xml.in:1901
 msgid "sed script"
-msgstr ""
+msgstr "sed スクリプト"
 
 #. Translators: officially uses full capitalisation. Usually
 #. pronounced as a word. Compare: "NATO", "SMART"
@@ -704,7 +704,7 @@ msgstr "AWK スクリプト"
 
 #: data/freedesktop.org.xml.in:1932
 msgid "GNU AWK script"
-msgstr ""
+msgstr "GNU AWK スクリプト"
 
 #: data/freedesktop.org.xml.in:1946
 msgid "New (BWK) AWK script"

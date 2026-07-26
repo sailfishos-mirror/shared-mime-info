@@ -593,7 +593,7 @@ msgstr "fichièr de paquet Apache"
 
 #: data/freedesktop.org.xml.in:1645
 msgid "Android App Bundle"
-msgstr ""
+msgstr "paquet d’aplicacion Android"
 
 #: data/freedesktop.org.xml.in:1650
 msgid "Android package"
@@ -1833,7 +1833,7 @@ msgstr "lòt de certificats PKCS#7"
 
 #: data/freedesktop.org.xml.in:4743
 msgid "Windows security catalog"
-msgstr ""
+msgstr "catalòg de seguretat de Windows"
 
 #: data/freedesktop.org.xml.in:4750
 msgid "PKCS#12 certificate bundle"
@@ -2026,7 +2026,7 @@ msgstr "sostítols SSA"
 
 #: data/freedesktop.org.xml.in:5196
 msgid "Song lyrics"
-msgstr ""
+msgstr "paraulas de cançon"
 
 #: data/freedesktop.org.xml.in:5207
 msgid "OpenSSH public key"
@@ -2162,7 +2162,7 @@ msgstr "ROM Bandai WonderSwan Color"
 
 #: data/freedesktop.org.xml.in:5473
 msgid "X.509 CA certificate"
-msgstr ""
+msgstr "certificat d’autoritat de certificacion X.509"
 
 #: data/freedesktop.org.xml.in:5488
 msgid "Empty document"
@@ -2506,7 +2506,7 @@ msgstr "imatge OpenRaster"
 
 #: data/freedesktop.org.xml.in:6391
 msgid "DirectDraw Surface"
-msgstr ""
+msgstr "susfàcia DirectDraw"
 
 #: data/freedesktop.org.xml.in:6399
 msgid "X11 cursor"
@@ -3418,7 +3418,7 @@ msgstr "escript Lua"
 
 #: data/freedesktop.org.xml.in:8473
 msgid "Git bundle"
-msgstr ""
+msgstr "paquet Git"
 
 #: data/freedesktop.org.xml.in:8484
 msgid "README document"
@@ -3618,15 +3618,15 @@ msgstr "imatge Aseprite"
 
 #: data/freedesktop.org.xml.in:8992
 msgid "Hancom HWP document"
-msgstr ""
+msgstr "document Hancom HWP"
 
 #: data/freedesktop.org.xml.in:9001
 msgid "Hancom HWP document template"
-msgstr ""
+msgstr "modèl de document Hancom HWP"
 
 #: data/freedesktop.org.xml.in:9007
 msgid "Hancom HWPX document"
-msgstr ""
+msgstr "document Hancom HWPX"
 
 #: data/freedesktop.org.xml.in:9023
 msgid "MNG animation"
@@ -4100,7 +4100,7 @@ msgstr "grafics PlayStation"
 
 #: data/freedesktop.org.xml.in:10079
 msgid "Farbfeld"
-msgstr ""
+msgstr "imatge Farbfeld"
 
 #: data/freedesktop.org.xml.in:10087
 msgid "NSIS Script"
