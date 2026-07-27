@@ -4457,10 +4457,10 @@ command to generate the output files.
     <glob pattern="*.ogg"/>
     <alias type="video/x-ogg"/>
   </mime-type>
-  <mime-type type="audio/x-vorbis+ogg">
+  <mime-type type="audio/vorbis">
     <comment>Ogg Vorbis audio</comment>
     <sub-class-of type="audio/ogg"/>
-    <alias type="audio/vorbis"/>
+    <alias type="audio/x-vorbis+ogg"/>
     <alias type="audio/x-vorbis"/>
     <magic priority="80">
       <match type="string" value="OggS" offset="0">
