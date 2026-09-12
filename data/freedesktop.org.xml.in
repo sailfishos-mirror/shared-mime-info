@@ -6961,6 +6961,7 @@ command to generate the output files.
   </mime-type>
   <mime-type type="image/webp">
     <comment>WebP image</comment>
+    <sub-class-of type="application/x-riff"/>
     <magic>
       <match type="string" value="RIFF" offset="0">
         <match type="string" value="WEBP" offset="8"/>
@@ -7428,6 +7429,7 @@ command to generate the output files.
   </mime-type>
   <mime-type type="application/x-navi-animation">
     <comment>Windows animated cursor</comment>
+    <sub-class-of type="application/x-riff"/>
     <magic>
       <match type="string" value="RIFF" offset="0">
         <match type="string" value="ACON" offset="8"/>
