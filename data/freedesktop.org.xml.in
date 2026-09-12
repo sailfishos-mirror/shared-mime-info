@@ -10213,6 +10213,8 @@ command to generate the output files.
     <comment>SPARQL query</comment>
     <acronym>SPARQL</acronym>
     <expanded-acronym>SPARQL Protocol and RDF Query Language</expanded-acronym>
+    <sub-class-of type="text/plain"/>
+    <generic-icon name="text-x-script"/>
     <glob pattern="*.qs"/>
     <magic priority="40">
       <match type="string" value="PREFIX" offset="0"/>
