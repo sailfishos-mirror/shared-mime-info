@@ -6258,9 +6258,6 @@ command to generate the output files.
     <sub-class-of type="text/plain"/>
     <glob pattern="*.rt"/>
   </mime-type>
-  <mime-type type="audio/x-riff">
-    <comment>RIFF audio</comment>
-  </mime-type>
   <mime-type type="application/x-riff">
     <comment>RIFF container</comment>
     <!-- need to be lower prio than avi -->
