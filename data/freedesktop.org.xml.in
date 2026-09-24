@@ -1636,6 +1636,19 @@ command to generate the output files.
     <generic-icon name="x-office-document"/>
     <glob pattern="*.oxt" />
   </mime-type>
+  <mime-type type="application/vnd.drawoble.drawing+zip">
+    <comment>Drawoble drawing</comment>
+    <sub-class-of type="application/zip"/>
+    <generic-icon name="image-x-generic"/>
+    <magic priority="70">
+      <match type="string" value="PK\003\004" offset="0">
+        <match type="string" value="mimetype" offset="30">
+          <match type="string" value="application/vnd.drawoble.drawing+zip" offset="38"/>
+        </match>
+      </match>
+    </magic>
+    <glob pattern="*.drawo"/>
+  </mime-type>
   <mime-type type="application/vnd.apache.parquet">
     <comment>Apache Parquet file</comment>
     <alias type="application/x-parquet"/>

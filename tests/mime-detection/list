@@ -315,6 +315,8 @@ test.numbers application/vnd.apple.numbers ox
 test.pages application/vnd.apple.pages
 test.pmd application/x-pagemaker oxo
 sample.vsdx application/vnd.ms-visio.drawing.main+xml oxo
+# Created with Drawoble 0.5.0
+test.drawo application/vnd.drawoble.drawing+zip
 appleworks.cwk application/x-appleworks-document oxo
 # test.oxps and test.xps "printed" with Windows 10 Microsoft XPS Document Writer
 test.oxps application/oxps ox
