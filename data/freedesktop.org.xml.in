@@ -8718,6 +8718,11 @@ command to generate the output files.
     <sub-class-of type="text/plain"/>
     <glob pattern="*.swift"/>
   </mime-type>
+  <mime-type type="text/x-zig">
+    <comment>Zig source code</comment>
+    <sub-class-of type="text/plain"/>
+    <glob pattern="*.zig"/>
+  </mime-type>
   <mime-type type="text/x-scons">
     <comment>SCons configuration file</comment>
     <sub-class-of type="text/x-python"/>
