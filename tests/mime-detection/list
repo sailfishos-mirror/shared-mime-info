@@ -536,6 +536,8 @@ test.go text/x-go oxo
 go.mod text/x-go-mod
 test.swift text/x-swift ox
 test.zig text/x-zig ox
+test.r text/x-r ox
+script.R text/x-r ox
 # Qt Quick (QML) file
 rectangle.qml text/x-qml
 shebang.qml text/x-qml

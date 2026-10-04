@@ -8723,6 +8723,13 @@ command to generate the output files.
     <sub-class-of type="text/plain"/>
     <glob pattern="*.zig"/>
   </mime-type>
+  <mime-type type="text/x-r">
+    <comment>R script</comment>
+    <sub-class-of type="text/plain"/>
+    <glob pattern="*.r"/>
+    <alias type="text/x-rsrc"/>
+    <alias type="text/x-r-source"/>
+  </mime-type>
   <mime-type type="text/x-scons">
     <comment>SCons configuration file</comment>
     <sub-class-of type="text/x-python"/>
