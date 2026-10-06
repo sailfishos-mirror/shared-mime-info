@@ -3671,7 +3671,13 @@ int main(int argc, char **argv)
 
 	mime_dir = argv[optind];
 #else
-	if (strcmp(argv[argc - 1], "v")) {
+	if (argc < 2)
+	{
+		usage(argv[0]);
+		return EXIT_FAILURE;
+	}
+
+	if (strcmp(argv[argc - 1], "-v") == 0) {
 		g_fprintf(stderr,
 			  "update-mime-database (" PACKAGE ") "
 			  VERSION "\n" COPYING);
