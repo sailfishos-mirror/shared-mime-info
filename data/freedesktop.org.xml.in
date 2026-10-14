@@ -603,6 +603,7 @@ command to generate the output files.
   <mime-type type="application/x-gdscript">
     <comment>GDScript script</comment>
     <sub-class-of type="text/plain"/>
+    <generic-icon name="text-x-script"/>
     <glob pattern="*.gd"/>
   </mime-type>
   <mime-type type="application/its+xml">
@@ -3477,10 +3478,12 @@ command to generate the output files.
   </mime-type>
   <mime-type type="text/x-gradle">
     <comment>Gradle script</comment>
+    <generic-icon name="text-x-script"/>
     <glob pattern="*.gradle"/>
   </mime-type>
   <mime-type type="text/x-gradle-kts">
     <comment>Kotlin Gradle script</comment>
+    <generic-icon name="text-x-script"/>
     <sub-class-of type="text/x-kotlin"/>
     <glob pattern="*.gradle.kts"/>
   </mime-type>
@@ -7963,11 +7966,13 @@ command to generate the output files.
   <mime-type type="text/vnd.wap.wmlscript">
     <comment>WMLScript program</comment>
     <sub-class-of type="text/plain"/>
+    <generic-icon name="text-x-script"/>
     <glob pattern="*.wmls"/>
   </mime-type>
   <mime-type type="text/vnd.senx.warpscript">
     <comment>WarpScript source code</comment>
     <sub-class-of type="text/plain"/>
+    <generic-icon name="text-x-script"/>
     <glob pattern="*.mc2"/>
     <magic priority="10">
       <match type="string" value="//" offset="0"/>
@@ -8134,6 +8139,7 @@ command to generate the output files.
     <comment>Vala source code</comment>
     <sub-class-of type="text/plain"/>
     <sub-class-of type='application/x-executable'/>
+    <generic-icon name="text-x-script"/>
     <magic priority="10">
       <match type="string" value="#!/bin/vala" offset="0"/>
       <match type="string" value="#!/usr/bin/vala" offset="0"/>
@@ -8168,6 +8174,7 @@ command to generate the output files.
     <acronym>DCL</acronym>
     <expanded-acronym>Data Conversion Laboratory</expanded-acronym>
     <sub-class-of type="text/plain"/>
+    <generic-icon name="text-x-script"/>
     <glob pattern="*.dcl"/>
   </mime-type>
   <mime-type type="text/x-dsl">
@@ -8618,6 +8625,7 @@ command to generate the output files.
   <mime-type type="text/x-nimscript">
     <comment>Nimscript source code</comment>
     <sub-class-of type="text/x-nim"/>
+    <generic-icon name="text-x-script"/>
     <glob pattern="*.nims"/>
     <glob pattern="*.nimble"/>
   </mime-type>
@@ -8655,6 +8663,7 @@ command to generate the output files.
   <mime-type type="text/x-python3">
     <comment>Python 3 script</comment>
     <sub-class-of type='text/x-python'/>
+    <generic-icon name="text-x-script"/>
     <magic priority="60"><!-- higher priority than text/x-python -->
       <match type="string" value="#!/bin/python3" offset="0"/>
       <match type="string" value="#! /bin/python3" offset="0"/>
@@ -8674,6 +8683,7 @@ command to generate the output files.
   <mime-type type="text/x-python2">
     <comment>Python 2 script</comment>
     <sub-class-of type='text/x-python'/>
+    <generic-icon name="text-x-script"/>
     <magic priority="60"><!-- higher priority than text/x-python -->
       <match type="string" value="#!/bin/python2" offset="0"/>
       <match type="string" value="#! /bin/python2" offset="0"/>
@@ -8693,6 +8703,7 @@ command to generate the output files.
     <comment>Python script</comment>
     <sub-class-of type='application/x-executable'/>
     <sub-class-of type="text/x-cython"/>
+    <generic-icon name="text-x-script"/>
     <magic>
       <match type="string" value="#!/bin/python" offset="0"/>
       <match type="string" value="#! /bin/python" offset="0"/>
@@ -8724,12 +8735,14 @@ command to generate the output files.
   <mime-type type="text/x-sagemath">
     <comment>SageMath script</comment>
     <sub-class-of type="text/x-python"/>
+    <generic-icon name="text-x-script"/>
     <glob pattern="*.sage" weight="60"/>
   </mime-type>
   <mime-type type="text/x-lua">
     <comment>Lua script</comment>
     <sub-class-of type='application/x-executable'/>
     <sub-class-of type="text/plain"/>
+    <generic-icon name="text-x-script"/>
     <magic>
       <match type="string" value="/bin/lua" offset="2:16"/>
       <match type="string" value="/bin/luajit" offset="2:16"/>
@@ -8833,6 +8846,7 @@ command to generate the output files.
     <comment>Tcl script</comment>
     <alias type="text/x-tcl"/>
     <sub-class-of type="text/plain"/>
+    <generic-icon name="text-x-script"/>
     <glob pattern="*.tcl"/>
     <glob pattern="*.tk"/>
   </mime-type>
@@ -10410,6 +10424,7 @@ command to generate the output files.
   <mime-type type="application/x-ns-proxy-autoconfig">
     <comment>Proxy Auto-Configuration file</comment>
     <sub-class-of type="text/javascript"/>
+    <generic-icon name="text-x-script"/>
     <glob pattern="*.pac"/>
     <magic>
       <match type="string" value="function FindProxyForURL" offset="0:3000" />
