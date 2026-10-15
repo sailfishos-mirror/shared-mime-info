@@ -5579,7 +5579,8 @@ command to generate the output files.
     <glob pattern="*.pdf.xz"/>
   </mime-type>
   <mime-type type="application/x-ustar">
-    <comment>Ustar archive</comment>
+    <comment>Tar archive (POSIX-compliant)</comment>
+    <sub-class-of type="application/x-tar"/>
     <generic-icon name="package-x-generic"/>
     <glob pattern="*.ustar"/>
   </mime-type>

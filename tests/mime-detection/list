@@ -656,6 +656,10 @@ archive2.7z.001 application/x-7z-compressed
 comics.cb7 application/x-cb7 ox
 # Created using tar
 archive.tar application/x-tar
+gnu.tar application/x-tar
+oldgnu.tar application/x-tar
+posix.tar application/x-tar
+v7.tar application/x-tar ox
 comics.cbt application/x-cbt ox
 # Created using lcab
 copying.cab application/vnd.ms-cab-compressed
