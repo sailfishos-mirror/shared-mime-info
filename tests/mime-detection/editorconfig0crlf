@@ -1,0 +1,7 @@
+[*.no-such-file.ext]
+indent_style = space
+indent_size = 4
+tab_width = 8
+
+# Content test for .editorconfig detection with CRLF line delimiters,
+# and the only section header at offset zero.

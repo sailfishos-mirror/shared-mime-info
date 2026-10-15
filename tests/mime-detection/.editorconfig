@@ -1,0 +1,18 @@
+# Don't process .editorconfig files in parent directories
+
+root = true
+
+# These shouldn't match any real test data in this directory
+
+[*.no-such-file.ext]
+indent_style = space
+indent_size = 4
+tab_width = 8
+
+[nonexistent-dir/*.ext]
+indent_style = tab
+indent_size = tab
+insert_final_newline = true
+end_of_line = lf
+charset = utf-8
+max_line_length = 72

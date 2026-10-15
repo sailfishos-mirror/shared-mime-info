@@ -8208,6 +8208,65 @@ command to generate the output files.
     <glob pattern="*.dtd"/>
     <alias type="text/x-dtd"/>
   </mime-type>
+  <mime-type type="text/x-editorconfig">
+    <comment>EditorConfig coding style</comment>
+    <sub-class-of type="text/plain"/>
+    <magic priority="20">
+      <match type="string" value="\n[" offset="0:1024">
+        <match type="string" value="]\n" offset="3:1024">
+          <match type="string" value="\nindent_style =" offset="4:1024"/>
+          <match type="string" value="\nindent_style=" offset="4:1024"/>
+          <match type="string" value="\nindent_size =" offset="4:1024"/>
+          <match type="string" value="\nindent_size=" offset="4:1024"/>
+          <match type="string" value="\ntrim_trailing_whitespace =" offset="4:1024"/>
+          <match type="string" value="\ntrim_trailing_whitespace=" offset="4:1024"/>
+          <match type="string" value="\ninsert_final_newline =" offset="4:1024"/>
+          <match type="string" value="\ninsert_final_newline=" offset="4:1024"/>
+          <match type="string" value="\nend_of_line =" offset="4:1024"/>
+          <match type="string" value="\nend_of_line=" offset="4:1024"/>
+        </match>
+        <match type="string" value="]\r\n" offset="4:1024">
+          <match type="string" value="\r\nindent_style =" offset="4:1024"/>
+          <match type="string" value="\r\nindent_style=" offset="4:1024"/>
+          <match type="string" value="\r\nindent_size =" offset="4:1024"/>
+          <match type="string" value="\r\nindent_size=" offset="4:1024"/>
+          <match type="string" value="\r\ntrim_trailing_whitespace =" offset="4:1024"/>
+          <match type="string" value="\r\ntrim_trailing_whitespace=" offset="4:1024"/>
+          <match type="string" value="\r\ninsert_final_newline =" offset="4:1024"/>
+          <match type="string" value="\r\ninsert_final_newline=" offset="4:1024"/>
+          <match type="string" value="\r\nend_of_line =" offset="4:1024"/>
+          <match type="string" value="\r\nend_of_line=" offset="4:1024"/>
+        </match>
+      </match>
+      <match type="string" value="[" offset="0">
+        <match type="string" value="]\n" offset="2:1024">
+          <match type="string" value="\nindent_style =" offset="3:1024"/>
+          <match type="string" value="\nindent_style=" offset="3:1024"/>
+          <match type="string" value="\nindent_size =" offset="3:1024"/>
+          <match type="string" value="\nindent_size=" offset="3:1024"/>
+          <match type="string" value="\ntrim_trailing_whitespace =" offset="3:1024"/>
+          <match type="string" value="\ntrim_trailing_whitespace=" offset="3:1024"/>
+          <match type="string" value="\ninsert_final_newline =" offset="3:1024"/>
+          <match type="string" value="\ninsert_final_newline=" offset="3:1024"/>
+          <match type="string" value="\nend_of_line =" offset="3:1024"/>
+          <match type="string" value="\nend_of_line=" offset="3:1024"/>
+        </match>
+        <match type="string" value="]\r\n" offset="2:1024">
+          <match type="string" value="\r\nindent_style =" offset="3:1024"/>
+          <match type="string" value="\r\nindent_style=" offset="3:1024"/>
+          <match type="string" value="\r\nindent_size =" offset="3:1024"/>
+          <match type="string" value="\r\nindent_size=" offset="3:1024"/>
+          <match type="string" value="\r\ntrim_trailing_whitespace =" offset="3:1024"/>
+          <match type="string" value="\r\ntrim_trailing_whitespace=" offset="3:1024"/>
+          <match type="string" value="\r\ninsert_final_newline =" offset="3:1024"/>
+          <match type="string" value="\r\ninsert_final_newline=" offset="3:1024"/>
+          <match type="string" value="\r\nend_of_line =" offset="3:1024"/>
+          <match type="string" value="\r\nend_of_line=" offset="3:1024"/>
+        </match>
+      </match>
+    </magic>
+    <glob pattern=".editorconfig"/>
+  </mime-type>
   <mime-type type="text/x-eiffel">
     <comment>Eiffel source code</comment>
     <sub-class-of type="text/plain"/>

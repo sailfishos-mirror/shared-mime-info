@@ -1,0 +1,26 @@
+root = true
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[{meson.build,meson.options,meson_options.txt}]
+indent_style = space
+indent_size = 4
+
+[*.{c,cpp}]
+indent_style = tab
+indent_size = 8
+
+[*.{py,sh}]
+indent_style = space
+indent_size = 4
+
+[*.{xml,loc,rng}{,.in}]
+indent_size = 2
+indent_style = space
+
+[*.its]
+indent_size = 4
+indent_style = space

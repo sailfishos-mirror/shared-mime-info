@@ -1,0 +1,15 @@
+# Content test for .editorconfig detection with CRLF line delimiters,
+# and the first section header at offset greater than zero.
+
+[*.no-such-file.ext]
+indent_style = space
+indent_size = 4
+tab_width = 8
+
+[nonexistent-dir/*.ext]
+indent_style = tab
+indent_size = tab
+insert_final_newline = true
+end_of_line = lf
+charset = utf-8
+max_line_length = 72

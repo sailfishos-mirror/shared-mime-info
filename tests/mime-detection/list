@@ -1477,6 +1477,14 @@ nix-configuration.nix text/x-nix ox
 nix-hardware-configuration.nix text/x-nix ox
 nix-home.nix text/x-nix ox
 
+# EditorConfig coding style files
+.editorconfig text/x-editorconfig
+../../.editorconfig text/x-editorconfig xoo
+editorconfig0lf text/x-editorconfig xoo
+editorconfig0crlf text/x-editorconfig xoo
+editorconfigNlf text/x-editorconfig xoo
+editorconfigNcrlf text/x-editorconfig xoo
+
 ## Secure password storage formats (passwords are all "example")
 # pwsafe/"Password Safe" (https://pwsafe.org/)
 # Format: https://github.com/pwsafe/pwsafe/tree/master/docs
